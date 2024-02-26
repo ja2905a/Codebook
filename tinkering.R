@@ -17,3 +17,28 @@ IC <-
 #rm observations when not associated with a native entity
 IC <-
   IC[!is.na(IC$entity),]
+
+##factorize and reorder aiana_desc
+
+IC$aiana_desc = 
+  as_factor(IC$aiana_desc)
+
+fct_count(IC$aiana_desc)
+
+IC <-
+  IC |>
+  mutate(
+    aiana_desc = fct_relevel(
+      aiana_desc, # source variable
+      'Trust land for which no reservation exists',
+      'Federally Recognized Tribal Entity',
+      'Trust Land related to a Federally Recognized Reservation',
+      'Alaska Native Village',
+      'American Indian Reservation'
+    )
+  )    
+
+levels(IC$aiana_desc)
+
+
+
