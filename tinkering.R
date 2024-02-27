@@ -11,7 +11,8 @@ IC <-
            -treaty, -tribal_est, -gov_type, -acres, -agency_cod,
            -poi_on_ima, -field_veri, -shape_leng, -shape_le_1,
            -shape_le_2, -irmp_plan, -short_name, -shape_le_3,
-           -shape_area, -air_020107, -air_20108, -r_code, -ind_name)
+           -shape_area, -air_020107, -air_20108, -r_code,
+           -ind_name, -fed_regist, -labor_tot)
 
 
 #rm observations when not associated with a native entity
@@ -40,5 +41,45 @@ IC <-
 
 levels(IC$aiana_desc)
 
+##med_fac to binary
+
+IC <-
+IC|>
+mutate(
+    med_fac = case_when(grepl("none", med_fac) ~ "NO",
+                        grepl("clinic", med_fac, ignore.case = TRUE) ~"YES"))
+    
+
+##area pcts
+
+IC <-
+  IC |>
+    mutate(tribe_area_pct = tribe_area / tot_area * 100,
+           fed_area_pct = fed_area / tot_area * 100,
+           allot_area_pct = allot_area / tot_area * 100)
+
+IC <-
+  IC |>
+    select(-tribe_area, - allot_area, -fed_area)
+
+##pop per sq mi
+
+IC <-
+  IC |>
+  mutate(sq_miles = round(sq_miles, 1))
+
+IC <-
+  IC |>
+    mutate(tribe_pop_sq_mi = pop_tot / sq_miles)
+
+IC <-
+  IC |>
+  mutate(tribe_pop_sq_mi = round(tribe_pop_sq_mi, 1))
+
+##mutate the economy
+
+##size factor for tribes
+
+##m NaN
 
 
