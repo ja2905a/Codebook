@@ -60,13 +60,45 @@ IC <-
 
 IC <-
   IC |>
-    select(-tribe_area, - allot_area, -fed_area)
+  select(-tribe_area, - allot_area, -fed_area, -tot_area)
+
+##rm NaN
+
+IC <-
+  IC |>
+  mutate(
+    tribe_area_pct = as.numeric(tribe_area_pct),
+    tribe_area_pct = case_when(
+      tribe_area_pct == 'NaN' ~ NA, 
+      TRUE ~ as.numeric(tribe_area_pct)
+      )
+  )
+
+IC <-
+  IC |>
+  mutate(
+    fed_area_pct = as.numeric(fed_area_pct),
+    fed_area_pct = case_when(
+      fed_area_pct == 'NaN' ~ NA, 
+      TRUE ~ as.numeric(fed_area_pct)
+    )
+  )
+
+IC <-
+  IC |>
+  mutate(
+    allot_area_pct = as.numeric(allot_area_pct),
+    allot_area_pct = case_when(
+      allot_area_pct == 'NaN' ~ NA, 
+      TRUE ~ as.numeric(allot_area_pct)
+    )
+  )
 
 ##pop per sq mi
 
 IC <-
   IC |>
-  mutate(sq_miles = round(sq_miles, 1))
+    mutate(sq_miles = round(sq_miles, 1))
 
 IC <-
   IC |>
@@ -74,12 +106,42 @@ IC <-
 
 IC <-
   IC |>
-  mutate(tribe_pop_sq_mi = round(tribe_pop_sq_mi, 1))
+    mutate(tribe_pop_sq_mi = round(tribe_pop_sq_mi, 1),
+           tribe_area_pct = round(tribe_area_pct, 1),
+           fed_area_pct = round(fed_area_pct, 1),
+           allot_area_pct = round(allot_area_pct, 1))
 
 ##mutate the economy
 
+IC$econ_sourc <- stringr::word(IC$econ_sourc, 1)
+
+#standardize obs names
+
+IC$econ_sourc <- str_replace_all(IC$econ_sourc,
+                                  c("," = "",
+                                    ";" = "",
+                                    "Fisheries" = "Fish",
+                                    "Fishing" = "Fish",
+                                    "Wild" = "Wild rice",
+                                    "Retail/service" = "Retail"))
+
 ##size factor for tribes
 
-##m NaN
-
-
+IC =
+  IC |>
+  mutate(
+    tribe_land_base = case_when(
+      sq_miles >= 10000 ~ "Largest",
+      sq_miles %in% 1000:10000 ~ "Very Large",
+      sq_miles %in% 100:1000 ~ "Large",
+      sq_miles %in% 10.1:100 ~ "Medium",
+      sq_miles %in% 1.1:10 ~ "Small",
+      sq_miles %in% 0.1:1 ~ "Very Small",
+      sq_miles = 0 ~ "Nonexistent",
+      .ptype = factor(
+        levels = c("Nonexistent", "Very Small", "Small",
+             "Medium", "Large", "Very Large", "Largest"), 
+         ordered = TRUE
+        )
+      )
+    )
