@@ -7,6 +7,15 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
 ```
 
+# Overview of Data
 
+This dataset originally comes from
+
+https://data.world/dhs/bia-indian-lands-dataset
+
+# Missing Values
+
+All missing values are designated with `NA`.
