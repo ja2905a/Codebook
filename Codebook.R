@@ -76,7 +76,7 @@ IC <-
   IC |>
   select(-tribe_area, - allot_area, -fed_area, -tot_area)
 
-##rm NaN
+##rm NaN, Inf
 
 IC <-
   IC |>
@@ -85,6 +85,7 @@ IC <-
     tribe_area_pct = case_when(
       tribe_area_pct == 'NaN' ~ NA, 
       tribe_area_pct == 'Inf' ~ 100,
+      tribe_area_pct >= 100 ~ 100,
       TRUE ~ as.numeric(tribe_area_pct)
       )
   )
@@ -95,7 +96,7 @@ IC <-
     fed_area_pct = as.numeric(fed_area_pct),
     fed_area_pct = case_when(
       fed_area_pct == 'NaN' ~ NA,
-      tribe_area_pct == 'Inf' ~ 100,
+      fed_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(fed_area_pct)
     )
   )
@@ -106,7 +107,8 @@ IC <-
     allot_area_pct = as.numeric(allot_area_pct),
     allot_area_pct = case_when(
       allot_area_pct == 'NaN' ~ NA,
-      tribe_area_pct == 'Inf' ~ 100,
+      allot_area_pct == 'Inf' ~ 100,
+      allot_area_pct >= 100 ~ 100,
       TRUE ~ as.numeric(allot_area_pct)
     )
   )
@@ -128,6 +130,16 @@ IC <-
            fed_area_pct = round(fed_area_pct, 1),
            allot_area_pct = round(allot_area_pct, 1))
 
+IC <-
+  IC |>
+  mutate(
+    tribe_pop_sq_mi = as.numeric(tribe_pop_sq_mi),
+    tribe_pop_sq_mi = case_when(
+      tribe_pop_sq_mi == 'Inf' ~ NA,
+      TRUE ~ as.numeric(tribe_pop_sq_mi)
+    )
+  )
+
 ##mutate the economy
 
 IC$econ_sourc <- stringr::word(IC$econ_sourc, 1)
@@ -141,6 +153,28 @@ IC$econ_sourc <- str_replace_all(IC$econ_sourc,
                                     "Fishing" = "Fish",
                                     "Wild" = "Wild rice",
                                     "Retail/service" = "Retail"))
+
+## remove percentages over 100
+
+IC <-
+  IC |>
+  mutate(
+    unemploy_p = as.numeric(unemploy_p),
+    unemploy_p = case_when(
+      unemploy_p >= 100 ~ 100,
+      TRUE ~ as.numeric(unemploy_p)
+    )
+  )
+
+IC <-
+  IC |>
+  mutate(
+    hsgrad_pct = as.numeric(hsgrad_pct),
+    hsgrad_pct = case_when(
+      hsgrad_pct >= 100 ~ 100,
+      TRUE ~ as.numeric(hsgrad_pct)
+    )
+  )
 
 ##size factor for tribes
 ##I could not get this to work so it's not in the final dataset, but I wanted to show that I really tried to make it work
@@ -163,6 +197,3 @@ IC =
         )
       )
     )
-
-
-knitr::kable(fct_count(IC$med_fac))

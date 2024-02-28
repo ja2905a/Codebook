@@ -94,6 +94,7 @@ IC <-
     tribe_area_pct = case_when(
       tribe_area_pct == 'NaN' ~ NA, 
       tribe_area_pct == 'Inf' ~ 100,
+      tribe_area_pct >= 100 ~ 100,
       TRUE ~ as.numeric(tribe_area_pct)
       )
   )
@@ -104,7 +105,7 @@ IC <-
     fed_area_pct = as.numeric(fed_area_pct),
     fed_area_pct = case_when(
       fed_area_pct == 'NaN' ~ NA,
-      tribe_area_pct == 'Inf' ~ 100,
+      fed_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(fed_area_pct)
     )
   )
@@ -115,7 +116,8 @@ IC <-
     allot_area_pct = as.numeric(allot_area_pct),
     allot_area_pct = case_when(
       allot_area_pct == 'NaN' ~ NA,
-      tribe_area_pct == 'Inf' ~ 100,
+      allot_area_pct == 'Inf' ~ 100,
+      allot_area_pct >= 100 ~ 100,
       TRUE ~ as.numeric(allot_area_pct)
     )
   )
@@ -137,6 +139,16 @@ IC <-
            fed_area_pct = round(fed_area_pct, 1),
            allot_area_pct = round(allot_area_pct, 1))
 
+IC <-
+  IC |>
+  mutate(
+    tribe_pop_sq_mi = as.numeric(tribe_pop_sq_mi),
+    tribe_pop_sq_mi = case_when(
+      tribe_pop_sq_mi == 'Inf' ~ NA,
+      TRUE ~ as.numeric(tribe_pop_sq_mi)
+    )
+  )
+
 ##mutate the economy
 
 IC$econ_sourc <- stringr::word(IC$econ_sourc, 1)
@@ -150,6 +162,28 @@ IC$econ_sourc <- str_replace_all(IC$econ_sourc,
                                     "Fishing" = "Fish",
                                     "Wild" = "Wild rice",
                                     "Retail/service" = "Retail"))
+
+## remove percentages over 100
+
+IC <-
+  IC |>
+  mutate(
+    unemploy_p = as.numeric(unemploy_p),
+    unemploy_p = case_when(
+      unemploy_p >= 100 ~ 100,
+      TRUE ~ as.numeric(unemploy_p)
+    )
+  )
+
+IC <-
+  IC |>
+  mutate(
+    hsgrad_pct = as.numeric(hsgrad_pct),
+    hsgrad_pct = case_when(
+      hsgrad_pct >= 100 ~ 100,
+      TRUE ~ as.numeric(hsgrad_pct)
+    )
+  )
 ```
 
 # Overview of Data
@@ -158,7 +192,7 @@ This dataset originally comes from the dataset available at [https://data.world/
 
 # Sources and Methodology
 
-This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016. The modified dataset that I have created consists of 696 observations of 19 variables that give a snapshot of tribal lands in the United States in the late 2010s.
+This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016. The modified dataset that I have created consists of 696 observations of 17 variables that give a snapshot of tribal lands in the United States in the late 2010s.
 
 # Missing Values
 
