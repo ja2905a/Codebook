@@ -1,0 +1,697 @@
+aiana_desc,entity,region_nam,self_gover,state,hsgrad_pct,colgrad_pc,unemploy_p,pop_tot,econ_sourc,gaming,med_fac,sq_miles,tribe_area_pct,fed_area_pct,allot_area_pct,tribe_pop_sq_mi
+Federally Recognized Tribal Entity,Absentee-Shawnee Tribe of Indians of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,1106.4,NA,NA,NA,0
+Trust land for which no reservation exists,Absentee-Shawnee Tribe of Indians of Oklahoma,Southern Plains,TRUE,OK,64.4,6.1,8.9,91012,Government,TRUE,YES,18.4,3.3,1.2,95.5,4946.3
+American Indian Reservation,"Pueblo of Acoma, New Mexico",Southwest,FALSE,NM,64.6,5.8,38.57,6091,Ranching,TRUE,NA,393.9,99.9,96.5,0,15.5
+American Indian Reservation,"Pueblo of Acoma, New Mexico",Southwest,FALSE,NM,64.6,5.8,38.57,6091,Ranching,TRUE,NA,178.8,99.9,96.5,0,34.1
+Alaska Native Village,Native Village of Afognak (formerly the Village of Afognak),Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,4.7,0,0,0,0
+American Indian Reservation,"Agua Caliente Band of Cahuilla Indians of the Agua Caliente Indian Reservation, California",Pacific,FALSE,CA,90.3,15.3,5,0,Tourism,TRUE,NA,49.6,0,0,0,0
+Alaska Native Village,Native Village of Akhiok,Alaska,FALSE,AK,48.7,0,18.8,77,Fish,FALSE,YES,7.3,0,0,0,10.5
+Alaska Native Village,Akiachak Native Community,Alaska,FALSE,AK,44.2,0,12.7,481,Construction,FALSE,YES,15.1,0,0,0,31.9
+Alaska Native Village,Akiak Native Community,Alaska,TRUE,AK,52.6,1.7,16,285,Fish,FALSE,YES,2.9,0,0,0,98.3
+Alaska Native Village,Native Village of Akutan,Alaska,TRUE,AK,43.2,0,0.4,589,Fish,FALSE,YES,13.5,0,0,0,43.6
+Federally Recognized Tribal Entity,"Alabama-Quassarte Tribal Town,Oklahoma",Eastern Oklahoma,FALSE,OK,0,0,40,0,Tourism,FALSE,NA,0,94,0,0,NA
+American Indian Reservation,Alabama-Coushatta Tribes of Texas,Southern Plains,FALSE,TX,66.2,5.9,25,0,Tourism,FALSE,NA,7,0,0,0,0
+Alaska Native Village,Village of Alakanuk,Alaska,TRUE,AK,44.4,3.3,26.8,544,Fish,FALSE,YES,0.9,0,0,0,604.4
+Alaska Native Village,Alatna Village,Alaska,TRUE,AK,81.8,0,100,31,Subsistence,FALSE,NO,39.4,0,0,0,0.8
+Alaska Native Village,Native Village of Aleknagik,Alaska,TRUE,AK,55.9,3.2,14.3,185,Government,FALSE,YES,5.4,0,0,0,34.3
+Alaska Native Village,Algaaciq Native Village (St. Mary's),Alaska,TRUE,AK,53.8,0,19.2,441,Government,FALSE,YES,48,0,0,0,9.2
+Alaska Native Village,Allakaket Village,Alaska,TRUE,AK,30.6,0,69.4,170,Subsistence,FALSE,YES,4.1,0,0,0,41.5
+American Indian Reservation,Seneca Nation of New York,Eastern,FALSE,NY,68.9,3.1,21.5,7312,Agriculture,TRUE,NA,48.5,0,0,0,150.8
+American Indian Reservation,"Alturas Indian Rancheria, California",Pacific,FALSE,CA,0,0,0,0,NA,TRUE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Native Village of Ambler,Alaska,TRUE,AK,41.5,2.1,39.3,311,Subsistence,FALSE,YES,13.1,0,0,0,23.7
+Alaska Native Village,Village of Anaktuvuk Pass,Alaska,FALSE,AK,58.3,0,23.6,259,Subsistence,FALSE,YES,14,0,0,0,18.5
+Alaska Native Village,Yupiit of Andreafski,Alaska,TRUE,AK,63.1,3.8,18.6,410,Fish,FALSE,YES,2.2,0,0,0,186.4
+Alaska Native Village,Angoon Community Association,Alaska,TRUE,AK,63.4,1.3,35.1,638,Fish,FALSE,YES,19.2,0,0,0,33.2
+Alaska Native Village,Village of Aniak,Alaska,FALSE,AK,64.7,3.3,9.7,540,Public,FALSE,YES,6.1,0,0,0,88.5
+American Indian Reservation,"Metlakatla Indian Community, Annette Island Reserve",Northwest,TRUE,AK,73.5,3.5,20.6,1464,Fish,TRUE,YES,132.3,0,0,0,11.1
+Alaska Native Village,Anvik Village,Alaska,TRUE,AK,70.7,0,13.6,82,Subsistence,FALSE,YES,13.8,0,0,0,5.9
+Federally Recognized Tribal Entity,Apache Tribe of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,0.2,NA,NA,NA,0
+Alaska Native Village,Native Village of Venetie Tribal Government (Arctic Village),Alaska,TRUE,AK,50,5.3,12.5,96,Government,FALSE,YES,69.8,0,0,0,1.4
+Federally Recognized Tribal Entity,Aroostook Band of Micmac Indians of Maine,Eastern,FALSE,ME,0,0,0,643,Government,FALSE,NA,0.8,0,0,0,803.8
+Alaska Native Village,Asa`carsarmiut Tribe (formerly Native Village of Mountain Village),Alaska,FALSE,AK,51.1,2.1,36.7,674,Fish,FALSE,YES,5.4,0,0,0,124.8
+Alaska Native Village,Native Village of Atka,Alaska,TRUE,AK,76.6,0,25.7,73,Fish,TRUE,YES,9,0,0,0,8.1
+Alaska Native Village,Village of Atmautluak,Alaska,FALSE,AK,33.3,0,25.3,258,Subsistence,FALSE,YES,3.4,0,0,0,75.9
+Alaska Native Village,Atqasuk Village (Atkasook),Alaska,FALSE,AK,46.7,0,29.7,216,Subsistence,FALSE,YES,44.7,0,0,0,4.8
+American Indian Reservation,"Augustine Band of Cahuilla Mission Indians of the Augustine Reservation, California",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,1,NA,NA,NA,0
+American Indian Reservation,"Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin",Midwest,FALSE,WI,0,0,81,1538,Fish,TRUE,YES,194.8,100,93.2,54.3,7.9
+Trust Land related to a Federally Recognized Reservation,"Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation, Wisconsin",Midwest,FALSE,WI,0,0,81,1538,Fish,TRUE,YES,0.1,100,93.2,54.3,15380
+American Indian Reservation,"Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation, California",Pacific,FALSE,CA,53.3,3.3,28,573,Tourism,TRUE,NA,8.1,0,0,0,70.7
+Trust Land related to a Federally Recognized Reservation,"Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation, California",Pacific,FALSE,CA,53.3,3.3,28,573,Tourism,TRUE,NA,1.2,0,0,0,477.5
+Alaska Native Village,Native Village of Barrow Inupiat Traditional Government (formerly Native Village of Barrow),Alaska,TRUE,AK,59.9,5.5,11.5,3469,Government,TRUE,NA,0,0,0,0,NA
+American Indian Reservation,Te-Moak Tribe of Western Shoshone Indians of Nevada - Battle Mountain Band,Western,FALSE,NV,6,0,0,0,Agriculture,FALSE,YES,1,0,100,0,0
+American Indian Reservation,"Bay Mills Indian Community, Michigan",Midwest,FALSE,MI,95,20,12.28,605,Fish,TRUE,NA,3.5,100,100,0,172.9
+Trust Land related to a Federally Recognized Reservation,"Bay Mills Indian Community, Michigan",Midwest,FALSE,MI,95,20,12.28,605,Fish,TRUE,NA,1.2,100,100,0,504.2
+Alaska Native Village,Beaver Village,Alaska,TRUE,AK,54.2,0,22.6,103,Subsistence,FALSE,YES,21.6,0,0,0,4.8
+Alaska Native Village,Native Village of Belkofski,Alaska,TRUE,AK,0,0,0,0,Subsistence,FALSE,NO,2.2,0,0,0,0
+American Indian Reservation,"Utu Utu Gwaitu Paiute Tribe of the Benton Paiute Reservation, California",Pacific,FALSE,CA,42.9,5.7,0,75,Government,FALSE,YES,0.2,0,98.8,0,375
+American Indian Reservation,Berry Creek Rancheria of Maidu Indians of California,Pacific,FALSE,CA,0,0,27.3,0,Forestry,TRUE,NA,0.1,100,0,0,0
+Alaska Native Village,Orutsararmuit Native Village (aka Bethel),Alaska,FALSE,AK,68.2,5.9,9,4674,Subsistence,FALSE,NA,40.6,0,0,0,115.1
+American Indian Reservation,"Pit River Tribe, California   - Big Bend Rancheria",Pacific,FALSE,CA,0,0,0,6,Agriculture,FALSE,YES,0.1,0,0,0,60
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,58,0,0,449,Ranching,TRUE,YES,82.3,100,100,0,5.5
+American Indian Reservation,"Big Lagoon Rancheria, California",Pacific,FALSE,CA,100,100,0,24,NA,TRUE,NA,0,0,0,0,NA
+American Indian Reservation,"Big Pine Band of Owens Valley Paiute Shoshone Indians of the Big Pine Reservation, California",Pacific,FALSE,CA,77.2,0,15,0,Agriculture,FALSE,YES,0.4,0,0,0,0
+American Indian Reservation,Big Sandy Rancheria of Mono Indians of California,Pacific,FALSE,CA,57.9,0,40,0,NA,TRUE,YES,0.4,0,0,0,0
+American Indian Reservation,"Big Valley Band of Pomo Indians of the Big Valley Rancheria, California",Pacific,FALSE,CA,0,0,0,81,NA,TRUE,NA,0.2,NA,NA,NA,405
+Alaska Native Village,Village of Bill Moore's Slough,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,1.6,NA,NA,NA,0
+Alaska Native Village,Birch Creek Tribe (formerly listed as Birch Creek Village),Alaska,TRUE,AK,15,0,0,42,Subsistence,FALSE,YES,6.4,0,0,0,6.6
+American Indian Reservation,"Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony, California",Pacific,FALSE,CA,67.9,4,27.3,1437,Agriculture,TRUE,YES,1.4,0,0,0,1026.4
+American Indian Reservation,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,Rocky Mountain,FALSE,MT,66.3,6.6,31.1,8488,Agriculture,TRUE,YES,2396.6,0,0,0,3.5
+Trust Land related to a Federally Recognized Reservation,Blackfeet Tribe of the Blackfeet Indian Reservation of Montana,Rocky Mountain,FALSE,MT,66.3,6.6,31.1,8488,Agriculture,TRUE,YES,0.1,0,0,0,84880
+American Indian Reservation,Blue Lake Rancheria of California,Pacific,FALSE,CA,100,0,0,53,Agriculture,FALSE,NA,0,0,0,0,NA
+American Indian Reservation,"Minnesota Chippewa Tribe, Bois Forte Band (Deer Creek), Minnesota",Midwest,FALSE,MN,66.4,5.5,26.1,898,Wild rice,TRUE,NA,35.8,28.8,0,10.9,25.1
+American Indian Reservation,"Minnesota Chippewa Tribe, Bois Forte Band (Nett Lake),Minnesota",Midwest,TRUE,MN,66.4,5.5,26.1,898,Wild rice,TRUE,NA,174.7,28.8,0,10.9,5.1
+American Indian Reservation,"Minnesota Chippewa Tribe, Bois Forte Band",Midwest,FALSE,MN,66.4,5.5,26.1,898,Wild rice,TRUE,NA,1.6,28.8,0,10.9,561.2
+Alaska Native Village,Native Village of Brevig Mission,Alaska,TRUE,AK,50,0,35.3,198,Subsistence,FALSE,YES,4.2,0,0,0,47.1
+American Indian Reservation,Bridgeport Paiute Indian Colony of California,Pacific,FALSE,CA,25,0,50,0,Government,FALSE,NA,0.1,0,0,0,0
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,51,0,0,528,Agriculture,FALSE,NA,57.1,100,100,0,9.2
+Alaska Native Village,Native Village of Buckland,Alaska,TRUE,AK,56.1,1.9,12.2,318,Subsistence,FALSE,YES,1.4,0,0,0,227.1
+Federally Recognized Tribal Entity,Buena Vista Rancheria of Me-Wuk Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,"Pit River Tribe, California   - Burney Tract",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,YES,0.7,NA,NA,NA,0
+American Indian Reservation,Burns Paiute Tribe of the Burns Paiute Indian Colony of Oregon,Northwest,FALSE,OR,0,0,50,219,Agriculture,TRUE,NA,18.9,8.1,0,91.9,11.6
+American Indian Reservation,"Cabazon Band of Mission Indians, California (previously listed as the Cabazon Band of Cahuilla Mission Indians of the Cabazon Reservation)",Pacific,TRUE,CA,50,0,0,0,Agriculture,TRUE,YES,3.2,0,0,0,0
+Federally Recognized Tribal Entity,Caddo Nation of Oklahoma (formerly the Caddo Indian Tribe of Oklahoma),Southern Plains,FALSE,OK,0,0,0,0,NA,FALSE,NA,513.9,NA,NA,NA,0
+American Indian Reservation,"Cahuilla Band of Mission Indians of the Cahuilla Reservation, California",Pacific,FALSE,CA,76.7,0,25,107,Agriculture,TRUE,NA,28.6,13.8,0,86.2,3.7
+American Indian Reservation,"Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona",Western,FALSE,AZ,51.4,3.7,14.3,624,Agricultural,TRUE,NA,0.8,87.5,0,12.5,780
+Trust Land related to a Federally Recognized Reservation,"Yavapai-Apache Nation of the Camp Verde Indian Reservation, Arizona",Western,FALSE,AZ,51.4,3.7,14.3,624,Agricultural,TRUE,NA,0.2,87.5,0,12.5,3120
+American Indian Reservation,"Campo Band of Diegueno Mission Indians of the Campo Indian Reservation, California",Pacific,TRUE,CA,50,0,28.6,270,Retail,TRUE,YES,23.7,0,0,0,11.4
+Alaska Native Village,Native Village of Cantwell,Alaska,TRUE,AK,51.9,7.4,34.6,147,Tourism,FALSE,YES,100.6,0,0,0,1.5
+American Indian Reservation,Capitan Grande Band of Diegueno Mission Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,24.8,0,0,0,0
+American Indian Reservation,Washoe Tribe of Nevada & California - Carson Colony,Western,FALSE,NV,61.5,0,0,265,NA,FALSE,NA,0.2,100,0,0,1325
+American Indian Reservation,Catawba Indian Nation (aka Catawba Tribe of South Carolina),Eastern,FALSE,SC,0,0,0,0,Housing,TRUE,NA,1.1,100,0,0,0
+American Indian Reservation,Seneca Nation of New York,Eastern,FALSE,NY,67.3,6.7,21.9,2183,Agriculture,TRUE,NA,34.4,0,0,0,63.5
+Federally Recognized Tribal Entity,Cayuga Nation of New York,Eastern,FALSE,NY,0,0,0,0,NA,FALSE,NA,133.6,NA,NA,NA,0
+American Indian Reservation,Paiute Indian Tribe of Utah (Cedar City ; Kanosh ; Koosharem ; Indian Peaks ; Shivwits Bands of Paiutes),Western,FALSE,UT,0,0,45,0,Sewing,FALSE,NA,3.7,0,0,0,0
+American Indian Reservation,"Cedarville Rancheria, California",Pacific,FALSE,CA,100,0,0,10,NA,FALSE,NA,0,0,0,0,NA
+American Indian Reservation,Confederated Tribes of Warm Springs Reservation of Oregon,Northwest,FALSE,OR,0,0,0,0,Agriculture,FALSE,NA,0.2,0,0,0,0
+Alaska Native Village,Chalkyitsik Village,Alaska,TRUE,AK,46.9,0,31.3,90,Subsistence,FALSE,YES,9.1,0,0,0,9.9
+Alaska Native Village,Village of Chefornak,Alaska,TRUE,AK,41.4,2.3,6.2,320,Education,FALSE,YES,21.9,0,0,0,14.6
+American Indian Reservation,"Confederated Tribes of the Chehalis Reservation, Washington",Northwest,FALSE,WA,37.7,6.1,20.4,504,Agriculture,TRUE,YES,6.7,0.5,0,38.6,75.2
+American Indian Reservation,"Chemehuevi Indian Tribe of the Chemehuevi Reservation, California",Western,FALSE,CA,50.9,24.4,100,325,Construction,TRUE,YES,46.7,0,0,0,7
+Alaska Native Village,Native Village of Chanega (aka Chenega),Alaska,TRUE,AK,48.3,0,14.3,94,Fish,FALSE,YES,28.8,0,0,0,3.3
+Federally Recognized Tribal Entity,Cherokee Nation of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,TRUE,NA,6963.1,NA,NA,NA,0
+American Indian Reservation,Eastern Band of Cherokee Indians of North Carolina,Eastern,FALSE,NC,63.1,3.8,17.7,6311,Tourism,TRUE,NA,75.8,0,0,0,83.3
+Trust Land related to a Federally Recognized Reservation,Eastern Band of Cherokee Indians of North Carolina,Eastern,FALSE,NC,63.1,3.8,17.7,6311,Tourism,TRUE,NA,6.5,0,0,0,970.9
+Alaska Native Village,Chevak Native Village,Alaska,FALSE,AK,63.1,3.2,17.8,598,Fish,FALSE,YES,1.5,0,0,0,398.7
+Federally Recognized Tribal Entity,Cheyenne-Arapahoe Tribes of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,8058.3,NA,NA,NA,0
+Trust land for which no reservation exists,Cheyenne-Arapaho Tribes of Oklahoma,Southern Plains,FALSE,OK,68,8.5,17.6,4727,Land,TRUE,YES,117,12.8,12.8,87.2,40.4
+Trust Land related to a Federally Recognized Reservation,"Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota",Great Plains,FALSE,SD,60.8,0,0,5092,NA,TRUE,NA,8,64.2,100,35.5,636.5
+American Indian Reservation,"Cheyenne River Sioux Tribe of the Cheyenne River Reservation, South Dakota",Great Plains,FALSE,SD,60.8,0,0,5092,Retail,TRUE,YES,4382.9,64.2,100,35.5,1.2
+Alaska Native Village,Chickaloon Native Village,Alaska,FALSE,AK,63.4,0,26.7,145,Retail,FALSE,NO,5971.1,0,0,0,0
+Federally Recognized Tribal Entity,"Chickasaw Nation, Oklahoma",Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,TRUE,NA,7472.4,NA,NA,NA,0
+American Indian Reservation,Chicken Ranch Rancheria of Me-Wuk Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,TRUE,NA,0.1,NA,NA,NA,0
+Alaska Native Village,Native Village of Chignik,Alaska,TRUE,AK,63.4,0,4.2,188,Fish,FALSE,YES,11.7,0,0,0,16.1
+Alaska Native Village,Native Village of Chignik Lagoon,Alaska,TRUE,AK,30.8,0,20,53,Fish,FALSE,YES,12.3,0,0,0,4.3
+Alaska Native Village,Chignik Lake Village,Alaska,TRUE,AK,42.2,11.1,15.2,133,Fish,FALSE,YES,10.8,0,0,0,12.3
+Alaska Native Village,Chilkat Indian Village (Klukwan),Alaska,FALSE,AK,58.2,0,60.4,129,Fish,FALSE,YES,1.9,0,0,0,67.9
+Alaska Native Village,Chilkoot Indian Association (Haines),Alaska,TRUE,AK,60,20,5.4,1238,Forestry,FALSE,YES,0.3,NA,NA,NA,4126.7
+Alaska Native Village,Cheesh-Na Tribe (Chistochina),Alaska,FALSE,AK,47.6,0,52,60,Subsistence,FALSE,YES,20,0,0,0,3
+American Indian Reservation,Chitimacha Tribe of Louisiana,Eastern,FALSE,LA,61.6,0,10.6,42,Agriculture,TRUE,YES,0.4,94.7,94.7,0,105
+Alaska Native Village,Native Village of Chitina,Alaska,FALSE,AK,80,0,33.3,49,Subsistence,FALSE,YES,153.9,0,0,0,0.3
+Federally Recognized Tribal Entity,Choctaw Nation of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,TRUE,NA,10883.4,NA,NA,NA,0
+American Indian Reservation,"Mississippi Band of Choctaw Indians, Mississippi",Eastern,FALSE,MS,52.9,2.5,0,5500,Livestock,TRUE,NA,33.7,100,100,NA,163.2
+Alaska Native Village,"Native Village of Chuathbaluk (Russian Mission, Kuskokwim)",Alaska,FALSE,AK,36.8,0,8.6,97,Subsistence,FALSE,YES,6.3,0,0,0,15.4
+Alaska Native Village,Chuloonawick Native Village,Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,0.6,NA,NA,NA,0
+Alaska Native Village,Circle Native Community,Alaska,TRUE,AK,64.1,7.7,36.7,73,Tourism,FALSE,YES,108.2,0,0,0,0.7
+Federally Recognized Tribal Entity,"Citizen Potawatomi Nation, Oklahoma",Southern Plains,TRUE,OK,0,0,0,0,Tribal,TRUE,NA,6.8,11.8,11.8,88.2,0
+Alaska Native Village,Village of Clarks Point,Alaska,TRUE,AK,53.8,11.5,18.5,60,Fish,FALSE,YES,3.8,0,0,0,15.8
+Federally Recognized Tribal Entity,Cloverdale Rancheria of Pomo Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,"Pueblo of Cochiti, New Mexico",Southwest,FALSE,NM,74.8,8.8,4.1,1410,Agriculture,FALSE,NA,81.6,100,0,0,17.3
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,60.9,0,0,80,Agriculture,TRUE,YES,0,100,0,0,NA
+American Indian Reservation,Cocopah Tribe of Arizona,Western,FALSE,AZ,31.1,0,23.1,584,Agriculture,TRUE,NA,10,100,0,0,58.4
+American Indian Reservation,"Coeur D'Alene Tribe of the Coeur D'Alene Reservation, Idaho",Northwest,FALSE,ID,65.2,5.2,17.7,5778,Agriculture,TRUE,NA,537.1,10.5,0,8,10.8
+American Indian Reservation,Cold Springs Rancheria of Mono Indians of California,Pacific,FALSE,CA,50,3.8,25,163,Government,FALSE,NA,0.2,16.1,0,48.4,815
+American Indian Reservation,"Colorado River Indian Tribes of the Colorado River Indian Reservation, Arizona and California",Western,FALSE,AZ,61.8,4.3,12.3,7944,Agriculture,TRUE,NA,453.3,100,0,0,17.5
+American Indian Reservation,"Cachil DeHe Band of Wintun Indians of the Colusa Indian Community of the Colusa Rancheria, California",Pacific,FALSE,CA,36.4,0,62.5,20,Agriculture,TRUE,YES,0.3,52.4,0,0,66.7
+American Indian Reservation,"Confederated Tribes of the Colville Reservation, Washington",Northwest,FALSE,WA,68.1,5.9,53,7034,Agriculture,TRUE,NA,2130.2,0,0,0,3.3
+Federally Recognized Tribal Entity,"Comanche Nation, Oklahoma",Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,0.2,NA,NA,NA,0
+American Indian Reservation,"Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians of Oregon",Northwest,FALSE,OR,0,0,10,0,Forestry,TRUE,NO,0,0,0,0,NA
+Alaska Native Village,Native Village of Kluti Kaah (aka Copper Center),Alaska,TRUE,AK,59,3.6,0,449,Retail,FALSE,YES,16.6,0,0,0,27
+American Indian Reservation,Coquille Tribe of Oregon,Northwest,FALSE,OR,0,0,31,400,Construction,TRUE,YES,14.1,0,100,0,28.4
+American Indian Reservation,Cortina Indian Rancheria of Wintun Indians of California,Pacific,FALSE,CA,42.9,0,55,29,Agriculture,FALSE,NA,1.2,0,0,0,24.2
+Alaska Native Village,Native Village of Council,Alaska,TRUE,AK,0,0,0,8,Subsistence,FALSE,NO,22,0,0,0,0.4
+American Indian Reservation,Coushatta Tribe of Louisiana,Eastern,FALSE,LA,56,0,56.3,311,Agriculture,TRUE,NA,1.2,0,0,0,259.2
+American Indian Reservation,Cow Creek Band of Umpqua Indians of Oregon,Northwest,FALSE,OR,0,0,0,0,Tourism,TRUE,NA,1,0,0,0,0
+Federally Recognized Tribal Entity,"Cowlitz Indian Tribe, Washington",Northwest,FALSE,WA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,Coyote Valley Band of Pomo Indians of California,Pacific,FALSE,CA,0,0,0,0,Tourism,TRUE,NA,0.1,0,0,0,0
+Alaska Native Village,Craig Community Association,Alaska,TRUE,AK,69.2,5.6,14.8,1260,Fish,FALSE,YES,0,0,0,0,NA
+Alaska Native Village,Village of Crooked Creek,Alaska,FALSE,AK,43.9,0,32.1,106,Subsistence,FALSE,YES,108.5,0,0,0,1
+Trust Land related to a Federally Recognized Reservation,Crow Tribe of Montana,Rocky Mountain,FALSE,MT,0,0,0,0,Coal,FALSE,NA,29.2,NA,NA,NA,0
+American Indian Reservation,"Crow Creek Sioux Tribe of the Crow Creek Reservation, South Dakota",Great Plains,FALSE,SD,0,0,0,1230,Retail,TRUE,NA,447.9,25.4,0,0,2.7
+American Indian Reservation,Crow Tribe of Montana,Rocky Mountain,FALSE,MT,69.8,6.6,44,5783,Coal,TRUE,NA,3579.5,18.2,31.9,54.1,1.6
+Alaska Native Village,Curyung Tribal Council (formerly Native Village of Dillingham),Alaska,TRUE,AK,70.3,7.4,6.7,2017,Fish,FALSE,YES,32.8,0,0,0,61.5
+American Indian Reservation,"Ewiiaapaayp Band of Kumeyaay Indians, California (formerly the Cuyapaipe Community of Diegueno Mission Indians of the Cuyapaipe Reservation)",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,8,0,0,0,0
+American Indian Reservation,Death Valley Timbi-Sha Shoshone Band of California,Pacific,FALSE,CA,0,0,0,55,Tourism,FALSE,YES,6.2,0,0,0,8.9
+Alaska Native Village,Native Village of Deering,Alaska,TRUE,AK,62.7,3,7.1,157,Subsistence,FALSE,YES,5.3,0,0,0,29.6
+Federally Recognized Tribal Entity,"Delaware Nation, Oklahoma",Southern Plains,TRUE,OK,65.4,9.8,17.4,326,NA,NA,NA,0,0.6,0.6,99.2,NA
+Alaska Native Village,Native Village of Diomede (aka Inalik),Alaska,TRUE,AK,35,0,6.7,192,Subsistence,FALSE,YES,1.9,0,0,0,101.1
+Alaska Native Village,Village of Dot Lake,Alaska,TRUE,AK,36.4,0,13.6,49,Subsistence,FALSE,YES,3.6,0,0,0,13.6
+Alaska Native Village,Douglas Indian Association,Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,0.3,NA,NA,NA,0
+American Indian Reservation,Washoe Tribe of Nevada and California - Dresslerville Colony,Western,FALSE,NV,71.3,0,0,153,Ranching,FALSE,YES,0.1,100,0,0,1530
+American Indian Reservation,Dry Creek Rancheria of Pomo Indians of California,Pacific,FALSE,CA,28.6,0,48.5,75,NA,FALSE,NA,0.1,0,0,0,750
+American Indian Reservation,"Shoshone-Paiute Tribes of the Duck Valley Reservation, Nevada",Western,TRUE,NV,64,0,0,908,Sale,FALSE,NA,452.2,100,0,0,2
+American Indian Reservation,"Duckwater Shoshone Tribe of the Duckwater Reservation, Nevada",Western,TRUE,NV,63.9,0,0,151,Agriculture,FALSE,YES,6,99.2,0,0,25.2
+Alaska Native Village,Native Village of Eagle,Alaska,TRUE,AK,69.6,13,31.7,168,Retail,FALSE,YES,19.1,0,0,0,8.8
+Federally Recognized Tribal Entity,Eastern Shawnee Tribe of Oklahoma,Eastern Oklahoma,TRUE,MO,80,10,74,354,Government,TRUE,NA,0.1,10.6,0,93.3,3540
+Trust land for which no reservation exists,Eastern Shawnee Tribe of Oklahoma,Eastern Oklahoma,TRUE,MO,80,10,74,354,Government,TRUE,NA,1.3,10.6,0,93.3,272.3
+Alaska Native Village,Native Village of Eek,Alaska,TRUE,AK,46.8,1.6,23.9,254,Subsistence,FALSE,YES,1,0,0,0,254
+Alaska Native Village,Egegik Village,Alaska,TRUE,AK,40.4,0,24.3,122,Fish,FALSE,YES,19.9,0,0,0,6.1
+Alaska Native Village,Eklutna Native Village,Alaska,FALSE,AK,20,0,3.5,381,Tourism,FALSE,NO,12.3,0,0,0,31
+Alaska Native Village,Native Village of Ekuk,Alaska,TRUE,AK,0,0,0,3,Fish,FALSE,NO,14.8,0,0,0,0.2
+Alaska Native Village,Ekwok Village,Alaska,TRUE,AK,29.3,0,23.5,77,Fish,FALSE,YES,21.1,0,0,0,3.6
+Alaska Native Village,Native Village of Elim,Alaska,TRUE,AK,67.2,3.4,36.1,264,Subsistence,FALSE,YES,473.7,0,0,0,0.6
+American Indian Reservation,Elk Valley Rancheria of California,Pacific,FALSE,CA,100,0,41.2,128,Fish,TRUE,NA,0.1,4.8,0,95.2,1280
+American Indian Reservation,Te-Moak Tribe of Western Shoshone Indians of Nevada - Elko Band,Western,FALSE,NV,0,0,0,0,NA,FALSE,NA,5.7,NA,NA,NA,0
+American Indian Reservation,Ely Shoshone Tribe of Nevada,Western,TRUE,NV,100,0,0,85,Government,FALSE,YES,0.2,100,0,0,425
+Alaska Native Village,Emmonak Village,Alaska,FALSE,AK,55.5,2.3,34.6,642,Fish,FALSE,YES,5.4,0,0,0,118.9
+Alaska Native Village,Native Village of Nanwalek (aka English Bay),Alaska,TRUE,AK,73.2,0,46.4,158,Fish,FALSE,YES,7.6,0,0,0,20.8
+American Indian Reservation,Enterprise Rancheria of Maidu Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.1,NA,NA,NA,0
+Alaska Native Village,Evansville Village (aka Bettles Field),Alaska,TRUE,AK,52.6,0,16,33,Transportation,FALSE,YES,24.1,0,0,0,1.4
+Alaska Native Village,Native Village of Eyak (Cordova),Alaska,TRUE,AK,100,0,4.3,172,Fish,FALSE,NO,13.5,0,0,0,12.7
+Trust Land related to a Federally Recognized Reservation,"Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada",Western,FALSE,NV,74.5,0,0,481,Agriculture,FALSE,YES,0.3,14.5,14.5,83.8,1603.3
+American Indian Reservation,"Paiute-Shoshone Tribe of the Fallon Reservation and Colony, Nevada",Western,FALSE,NV,74.5,0,0,481,Agriculture,FALSE,YES,13,14.5,14.5,83.8,37
+Alaska Native Village,Native Village of False Pass,Alaska,TRUE,AK,48.6,0,0,68,Fish,FALSE,YES,13.2,0,0,0,5.2
+American Indian Reservation,Flandreau Santee Sioux Tribe of South Dakota,Great Plains,FALSE,SD,0,0,0,504,Agriculture,TRUE,NA,3.6,92.7,0,0,140
+Trust Land related to a Federally Recognized Reservation,Flandreau Santee Sioux Tribe of South Dakota,Great Plains,FALSE,SD,0,0,0,504,Agriculture,TRUE,NA,0.5,92.7,0,0,1008
+American Indian Reservation,"Confederated Salish & Kootenai Tribes of the Flathead Reservation, Montana",Northwest,TRUE,MT,73.3,5.5,0,5128,Agriculture,TRUE,NA,2057.1,46.8,0,3.6,2.5
+American Indian Reservation,"Minnesota Chippewa Tribe, Fond du Lac Band, Minnesota",Midwest,TRUE,MN,69.5,8.2,27.3,3211,Construction,TRUE,YES,157.8,4.8,0,17,20.3
+Trust Land related to a Federally Recognized Reservation,"Minnesota Chippewa Tribe, Fond du Lac Band, Minnesota",Midwest,TRUE,MN,69.5,8.2,27.3,3211,Construction,TRUE,YES,0.2,4.8,0,17,16055
+American Indian Reservation,"Forest County Potawatomi Community, Wisconsin",Midwest,FALSE,WI,44.9,2.5,37.4,266,Farming,TRUE,NA,19.1,0,0,0,13.9
+Trust Land related to a Federally Recognized Reservation,"Forest County Potawatomi Community, Wisconsin",Midwest,FALSE,WI,44.9,2.5,37.4,266,Farming,TRUE,NA,0.5,0,0,0,532
+American Indian Reservation,Fort Belknap Indian Community of the Fort Belknap Reservation of Montana,Rocky Mountain,FALSE,MT,66.6,6,29.5,2485,Agriculture,TRUE,NA,972.9,24.9,3.9,65.4,2.6
+Trust Land related to a Federally Recognized Reservation,Fort Belknap Indian Community of the Fort Belknap Reservation of Montana,Rocky Mountain,FALSE,MT,66.6,6,29.5,2485,Agriculture,TRUE,NA,44.3,24.9,3.9,65.4,56.1
+American Indian Reservation,"Three Affiliated Tribes of the Fort Berthold Reservation, North Dakota",Great Plains,FALSE,ND,70,8.3,26.5,5387,Agriculture,TRUE,NA,1579.3,0,50,0,3.4
+American Indian Reservation,"Fort Bidwell Indian Community of the Fort Bidwell Reservation, California",Pacific,FALSE,CA,69.9,0,24.1,136,Agriculture,FALSE,YES,5,0,0,0,27.2
+American Indian Reservation,Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho,Northwest,FALSE,ID,58.8,2.4,26.5,5114,Agriculture,TRUE,YES,847.6,0,0,0,6
+Trust Land related to a Federally Recognized Reservation,Shoshone-Bannock Tribes of the Fort Hall Reservation of Idaho,Northwest,FALSE,ID,58.8,2.4,26.5,5114,Agriculture,TRUE,YES,7.7,0,0,0,664.2
+American Indian Reservation,"Fort Independence Indian Community of Paiute Indians of the Fort Independence Reservation, California",Pacific,FALSE,CA,75,12.5,0,58,NA,FALSE,NA,0.6,0,0,0,96.7
+American Indian Reservation,"Fort McDermitt Paiute and Shoshone Tribes of the Fort McDermitt Indian Reservation, Nevada and Oregon",Western,FALSE,NV,41.1,0,0,399,Agriculture,FALSE,YES,54.6,46.3,53.7,0,7.3
+American Indian Reservation,"Fort McDowell Yavapai Nation, Arizona",Western,FALSE,AZ,62.4,31.1,14,628,Land,TRUE,YES,39,100,0,0,16.1
+American Indian Reservation,"Fort Mojave Indian Tribe of Arizona, California & Nevada",Western,FALSE,CA,57.4,0.8,15.7,479,Agriculture,TRUE,NA,52.8,100,0,0,9.1
+American Indian Reservation,"Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana",Rocky Mountain,FALSE,MT,61.4,5.9,29.7,10722,Agriculture,TRUE,NA,3274.9,44.7,0,0,3.3
+Trust Land related to a Federally Recognized Reservation,"Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation, Montana",Rocky Mountain,FALSE,MT,61.4,5.9,29.7,10722,Agriculture,TRUE,NA,0.4,44.7,0,0,26805
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,51,0,0,528,Agriculture,FALSE,NA,0.1,100,100,0,5280
+Federally Recognized Tribal Entity,Fort Sill Apache Tribe of Oklahoma,Southern Plains,FALSE,OK,69.4,11,30,102,Land,FALSE,NA,0.2,0.9,0.9,99.1,510
+Trust land for which no reservation exists,Fort Sill Apache Tribe of Oklahoma,Southern Plains,FALSE,OK,69.4,11,30,102,Land,FALSE,NA,4.4,0.9,0.9,99.1,23.2
+Alaska Native Village,Native Village of Fort Yukon,Alaska,TRUE,AK,49.4,2.3,27.4,580,Government,FALSE,NA,7.4,0,0,0,78.4
+American Indian Reservation,Quechan Tribe of the Fort Yuma Indian Reservation. California & Arizona,Western,FALSE,AZ,0,0,0,0,Land,TRUE,NA,80.8,100,0,0,0
+Alaska Native Village,Native Village of Gakona,Alaska,TRUE,AK,100,0,0,25,Retail,FALSE,NO,4.2,0,0,0,6
+Alaska Native Village,Galena Village (aka Louden Village),Alaska,TRUE,AK,65.5,2.3,9.2,833,Transportation,FALSE,YES,22.9,0,0,0,36.4
+Alaska Native Village,Native Village of Gambell,Alaska,TRUE,AK,43.5,1.6,16.8,525,Subsistence,FALSE,YES,12.3,0,0,0,42.7
+Alaska Native Village,Native Village of Georgetown,Alaska,FALSE,AK,0,0,0,0,Subsistence,FALSE,NO,24.5,0,0,0,0
+American Indian Reservation,Tohono O'odham Nation of Arizona - Gila Bend,Western,FALSE,AZ,0,0,0,300,NA,FALSE,NA,16.3,0,0,0,18.4
+American Indian Reservation,"Gila River Indian Community of the Gila River Indian Reservation,Arizona",Western,TRUE,AZ,0,0,39,0,Industrial,TRUE,NA,586.3,75.3,0,25.3,0
+Alaska Native Village,Chinik Eskimo Community (Golovin),Alaska,TRUE,AK,46.7,0,15.3,127,Subsistence,FALSE,YES,3.8,0,0,0,33.4
+Alaska Native Village,Native Village of Goodnews Bay,Alaska,TRUE,AK,33.3,0,3.1,241,Government,FALSE,YES,3.1,0,0,0,77.7
+American Indian Reservation,"Confederated Tribes of the Goshute Reservation, Nevada and Utah",Western,FALSE,UT,52.1,8.3,28.6,86,Agriculture,FALSE,NA,169.5,100,100,0.1,0.5
+Trust Land related to a Federally Recognized Reservation,"Confederated Tribes of the Goshute Reservation, Nevada and Utah",Western,FALSE,UT,52.1,8.3,28.6,86,Agriculture,FALSE,NA,3.2,100,100,0.1,26.9
+American Indian Reservation,"Minnesota Chippewa Tribe, Grand Portage Band, Minnesota",Midwest,TRUE,MN,67.6,7.9,26.5,308,Construction,TRUE,YES,76,80.2,0,15.1,4.1
+Trust Land related to a Federally Recognized Reservation,"Minnesota Chippewa Tribe, Grand Portage Band, Minnesota",Midwest,TRUE,MN,67.6,7.9,26.5,308,Construction,TRUE,YES,0.1,80.2,0,15.1,3080
+American Indian Reservation,Confederated Tribes of the Grand Ronde Community of Oregon,Northwest,TRUE,OR,0,0,0,198,Forestry,TRUE,YES,16.4,100,100,0,12.1
+American Indian Reservation,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",Midwest,TRUE,MI,59,0.2,0,952,Fish,TRUE,YES,0.5,0,100,0,1904
+Trust Land related to a Federally Recognized Reservation,"Grand Traverse Band of Ottawa and Chippewa Indians, Michigan",Midwest,TRUE,MI,59,0.2,0,952,Fish,TRUE,YES,0.4,0,100,0,2380
+Federally Recognized Tribal Entity,"Federated Indians of Graton Rancheria, California (formerly the Graton Rancheria)",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Organized Village of Grayling (aka Holikachuk),Alaska,TRUE,AK,46.7,0,29.6,208,Subsistence,FALSE,YES,10.7,0,0,0,19.4
+American Indian Reservation,Greenville Rancheria of Maidu Indians of California,Pacific,FALSE,CA,0,0,33.9,25,Forestry,FALSE,YES,0.1,0,100,7.8,250
+American Indian Reservation,Grindstone Indian Rancheria of Wintun-Wailaki Indians of California,Pacific,FALSE,CA,0,0,58.8,98,Agriculture,FALSE,NA,0.1,16.7,66.7,0,980
+American Indian Reservation,Guidiville Rancheria of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.1,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,Guidiville Rancheria of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.1,NA,NA,NA,0
+Alaska Native Village,Gulkana Village,Alaska,TRUE,AK,44.2,0,27.3,113,Subsistence,FALSE,YES,8.2,0,0,0,13.8
+Alaska Native Village,Native Village of Hamilton,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,4.6,NA,NA,NA,0
+American Indian Reservation,"Hannahville Indian Community, Michigan",Midwest,FALSE,MI,54.3,0,14,196,Construction,TRUE,YES,5.6,0,79.5,0,35
+Trust Land related to a Federally Recognized Reservation,"Hannahville Indian Community, Michigan",Midwest,FALSE,MI,54.3,0,14,196,Construction,TRUE,YES,1.8,0,79.5,0,108.9
+American Indian Reservation,"Havasupai Tribe of the Havasupai Reservation, Arizona",Western,FALSE,AZ,38.1,0,17.2,433,Agriculture,FALSE,YES,274.7,100,0,0,1.6
+Alaska Native Village,Healy Lake Village,Alaska,TRUE,AK,77.3,9.1,33.3,47,Subsistence,FALSE,NO,74.3,0,0,0,0.6
+American Indian Reservation,Ho-Chunk Nation of Wisconsin,Midwest,FALSE,WI,69,20,29.6,526,Construction,TRUE,NA,13.5,54.1,54.1,45.9,39
+Trust Land related to a Federally Recognized Reservation,Ho-Chunk Nation of Wisconsin,Midwest,FALSE,WI,69,20,29.6,526,Construction,TRUE,NA,2.4,54.1,54.1,45.9,219.2
+American Indian Reservation,"Hoh Indian Tribe of the Hoh Indian Reservation, Washington",Northwest,FALSE,WA,0,0,0,116,Fish,FALSE,YES,0.8,100,100,0,145
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,60.9,0,0,80,Agriculture,TRUE,YES,0.8,100,0,0,100
+Alaska Native Village,Holy Cross Village,Alaska,TRUE,AK,0,0,38.6,277,Fish,FALSE,YES,37.4,0,0,0,7.4
+Alaska Native Village,Hoonah Indian Association,Alaska,FALSE,AK,75.1,10.3,14.9,795,Fish,FALSE,YES,1.5,0,0,0,530
+American Indian Reservation,"Hoopa Valley Tribe, California",Pacific,TRUE,CA,61.8,3.9,29.6,2199,Forestry,TRUE,YES,141.6,98.1,0,2.6,15.5
+Alaska Native Village,Native Village of Hooper Bay,Alaska,TRUE,AK,60.2,1.4,41.7,845,Fish,FALSE,YES,8.5,0,0,0,99.4
+American Indian Reservation,Hopi Tribe of Arizona,Western,FALSE,AZ,62.6,3.3,26.8,7215,Agriculture,FALSE,YES,2440.5,100,0,0,3
+American Indian Reservation,"Hopland Band of Pomo Indians of the Hopland Rancheria, California",Pacific,FALSE,CA,60,10.9,70,291,Agriculture,TRUE,NA,0.1,0,0,0,2910
+Federally Recognized Tribal Entity,Houlton Band of Maliseet Indians of Maine,Eastern,FALSE,ME,0,0,0,0,Agriculture,FALSE,NA,0.3,0,0,0,0
+American Indian Reservation,"Hualapai Indian Tribe of the Hualapai Indian Reservation, Arizona",Western,FALSE,AZ,53.9,1.3,32.4,833,Cattle,FALSE,YES,1604.1,0.2,0,0,0.5
+Alaska Native Village,Hughes Village,Alaska,TRUE,AK,51.7,0,15.4,54,Subsistence,FALSE,YES,2.5,0,0,0,21.6
+American Indian Reservation,"Huron Potawatomi, Inc., Michigan",Midwest,FALSE,MI,40,0,0,50,Gaming,TRUE,NA,0.2,100,0,0,250
+Alaska Native Village,Huslia Village,Alaska,TRUE,AK,51.1,3.2,38.5,207,Subsistence,FALSE,YES,16,0,0,0,12.9
+Alaska Native Village,Hydaburg Cooperative Association,Alaska,FALSE,AK,66.7,2.7,21.8,384,Fish,FALSE,YES,0.5,0,0,0,768
+Alaska Native Village,Igiugig Village,Alaska,TRUE,AK,42.9,0,0,33,Fish,FALSE,YES,21.1,0,0,0,1.6
+Alaska Native Village,Village of Iliamna,Alaska,FALSE,AK,68.2,0,0,94,Fish,FALSE,YES,36.5,0,0,0,2.6
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,51,0,0,528,Agriculture,FALSE,NA,1,100,100,0,528
+American Indian Reservation,"Inaja Band of Diegueno Mission Indians of the Inaja and Cosmit Reservation, California",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,1.3,NA,NA,NA,0
+American Indian Reservation,Paiute Indian Tribe of Utah (Cedar City ; Kanosh ; Koosharem ; Indian Peaks ; Shivwits Bands of Paiutes),Western,FALSE,UT,0,0,45,0,Sewing,FALSE,NA,0.1,0,0,0,0
+Alaska Native Village,Inqurmuit Traditional Council (formerly Native Village of Russian Mission),Alaska,FALSE,AK,44,2.4,21,246,Public,FALSE,YES,5.6,0,0,0,43.9
+Alaska Native Village,Inupiat Community of the Arctic Slope,Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,20.2,NA,NA,NA,0
+Federally Recognized Tribal Entity,Ione Band of Miwok Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.9,NA,NA,NA,0
+American Indian Reservation,Iowa Tribe of Kansas and Nebraska,Southern Plains,FALSE,KS,81.4,0,22,327,Agriculture,TRUE,NA,18.8,0,0,0,17.4
+Federally Recognized Tribal Entity,Iowa Tribe of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,NA,FALSE,NA,310.1,NA,NA,NA,0
+Trust land for which no reservation exists,Iowa Tribe of Oklahoma,Southern Plains,FALSE,OK,60,15,60,0,Agriculture,TRUE,NA,1.9,13.5,13.5,86.6,0
+Trust Land related to a Federally Recognized Reservation,Iowa Tribe of Kansas and Nebraska,Southern Plains,FALSE,KS,81.4,0,22,327,Agriculture,TRUE,NA,0.2,0,0,0,1635
+American Indian Reservation,Saginaw Chippewa Indian Tribe of Michigan,Midwest,FALSE,MI,50,25,4,22931,Farming,TRUE,YES,218,0.5,0.5,0.5,105.2
+American Indian Reservation,"Pueblo of Isleta, New Mexico",Southwest,FALSE,NM,67.4,4.3,11.7,2979,Farming,TRUE,YES,331,0,0,0,9
+Alaska Native Village,Ivanoff Bay Village,Alaska,TRUE,AK,100,44.4,0,35,Fish,FALSE,YES,11.1,0,0,0,3.2
+American Indian Reservation,Jackson Rancheria of Me-Wuk Indians of California,Pacific,FALSE,CA,50,0,75,27,Forestry,TRUE,YES,0.5,0,0,0,54
+American Indian Reservation,Jamestown S'Klallam Tribe of Washington,Northwest,TRUE,WA,0,0,0,34,Fish,TRUE,NA,0,100,16.7,0,NA
+American Indian Reservation,Jamul Indian Village of California,Pacific,FALSE,CA,0,0,0,0,Agriculture,TRUE,NA,0,0,0,0,NA
+American Indian Reservation,"Pueblo of Jemez, New Mexico",Southwest,FALSE,NM,68.4,3.8,21.1,1734,Farming,FALSE,YES,139,100,0,0,12.5
+Federally Recognized Tribal Entity,"Jena Band of Choctaw Indians, Louisiana",Eastern,FALSE,LA,0,0,0,0,NA,FALSE,NA,713.5,NA,NA,NA,0
+American Indian Reservation,"Jicarilla Apache Nation, New Mexico",Southwest,FALSE,NM,70,5.5,17.2,2636,Ranching,TRUE,NA,1310.4,94.6,0,0,2
+Trust Land related to a Federally Recognized Reservation,"Jicarilla Apache Nation, New Mexico",Southwest,FALSE,NM,70,5.5,17.2,2636,Ranching,TRUE,NA,48.4,94.6,0,0,54.5
+Alaska Native Village,Kaguyak Village,Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,6.7,NA,NA,NA,0
+American Indian Reservation,"Kaibab Band of Paiute Indians of the Kaibab Indian Reservation, Arizona",Western,FALSE,AZ,56.3,0,30.8,120,Farming,FALSE,YES,189.3,100,0,0,0.6
+Alaska Native Village,Organized Village of Kake,Alaska,TRUE,AK,71.8,5.5,10.9,700,Government,FALSE,NA,7.5,0,0,0,93.3
+Alaska Native Village,Kaktovik Village  (aka Barter Island),Alaska,FALSE,AK,54.4,1.9,30.7,224,Government,FALSE,YES,1,0,0,0,224
+American Indian Reservation,"Kalispel Indian Community of the Kalispel Reservation, Washington",Northwest,FALSE,WA,42.6,3.7,20.7,90,Agriculture,TRUE,NO,7.2,0,0,53.1,12.5
+Alaska Native Village,Village of Kalskag,Alaska,TRUE,AK,45.6,2.9,25.5,172,Subsistence,FALSE,YES,4.1,0,0,0,42
+Alaska Native Village,Village of Kaltag,Alaska,TRUE,AK,62,0,24.1,240,Subsistence,FALSE,YES,26.8,0,0,0,9
+Alaska Native Village,Native Village of Kanatak,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,34.7,NA,NA,NA,0
+American Indian Reservation,Paiute Indian Tribe of Utah (Cedar City ; Kanosh ; Koosharem ; Indian Peaks ; Shivwits Bands of Paiutes),Western,FALSE,UT,0,0,45,0,Sewing,FALSE,NA,3.1,0,0,0,0
+Alaska Native Village,Native Village of Karluk,Alaska,FALSE,AK,38.5,0,9.1,71,Fish,FALSE,YES,29.6,0,0,0,2.4
+American Indian Reservation,Karuk Tribe of California,Pacific,TRUE,CA,100,100,0,400,Construction,FALSE,YES,0.7,0,0,0,571.4
+Alaska Native Village,Organized Village of Kasaan,Alaska,TRUE,WA,65.4,0,64.5,54,Fish,FALSE,YES,5.3,0,0,0,10.2
+Alaska Native Village,Native Village of Kasigluk,Alaska,FALSE,AK,51.1,1.1,34.8,425,Subsistence,FALSE,YES,13.3,0,0,0,32
+Trust land for which no reservation exists,"Kaw Nation, Oklahoma",Southern Plains,TRUE,OK,0,0,29.9,604,Several,TRUE,NA,1.9,100,0,0,317.9
+Federally Recognized Tribal Entity,"Kaw Nation, Oklahoma",Southern Plains,FALSE,OK,0,0,0,0,NA,FALSE,NA,324.8,NA,NA,NA,0
+Alaska Native Village,Kenaitze Indian Tribe,Alaska,FALSE,AK,0,0,12.1,6327,Oil,FALSE,NA,0.6,0,0,0,10545
+Alaska Native Village,Ketchikan Indian Corporation,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,4.6,NA,NA,NA,0
+Federally Recognized Tribal Entity,Kialegee Tribal Town of the Creek Indian Nation of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Native Village of Kiana,Alaska,TRUE,AK,52.9,2.1,27.4,385,Subsistence,FALSE,YES,0.3,0,0,0,1283.3
+American Indian Reservation,Kickapoo Tribe of Indians of the Kickapoo Reservation in Kansas,Southern Plains,FALSE,KS,71.7,0,14.6,478,Agriculture,TRUE,YES,37.5,34.3,0,0,12.7
+American Indian Reservation,Kickapoo Traditional Tribe of Texas,Southern Plains,FALSE,TX,0,0,40,0,Office,FALSE,NA,0.2,0,0,0,0
+Federally Recognized Tribal Entity,Kickapoo Tribe of Oklahoma,Southern Plains,TRUE,OK,0,0,0,1104,Retail,TRUE,NA,0.3,17.8,17.8,82.2,3680
+Trust land for which no reservation exists,Kickapoo Tribe of Oklahoma,Southern Plains,TRUE,OK,0,0,0,1104,Retail,TRUE,NA,10,17.8,17.8,82.2,110.4
+Alaska Native Village,Agdaagux Tribe of King Cove,Alaska,FALSE,AK,53.6,0,1.8,451,Fish,FALSE,YES,11.5,0,0,0,39.2
+Alaska Native Village,King Island Native Community,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,4,NA,NA,NA,0
+Alaska Native Village,King Salmon Tribe,Alaska,TRUE,AK,0,0,0,442,Government,FALSE,NA,169.6,0,0,0,2.6
+Federally Recognized Tribal Entity,Kiowa Indian Tribe of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,Arts,TRUE,NA,0,NA,NA,NA,NA
+Trust land for which no reservation exists,"Kiowa Indian Tribe, Comanche Nation, Apache Tribe of Oklahoma",Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,308.8,NA,NA,NA,0
+Alaska Native Village,Native Village of Kipnuk,Alaska,TRUE,AK,47.2,1,12.9,470,Fish,FALSE,YES,18.9,0,0,0,24.9
+Alaska Native Village,Native Village of Kivalina,Alaska,TRUE,AK,46.2,1.7,55.6,317,Subsistence,FALSE,YES,0.9,0,0,0,352.2
+American Indian Reservation,"Klamath Tribes, Oregon (formerly the Klamath Indian Tribe of Oregon)",Northwest,FALSE,OR,63.4,3,17.7,0,Forestry,TRUE,YES,1.1,100,0,0,0
+Alaska Native Village,Klawock Cooperative Association,Alaska,TRUE,AK,75.1,6.1,17.3,722,Fish,TRUE,YES,0.3,0,0,0,2406.7
+Alaska Native Village,Knik Tribe,Alaska,FALSE,AK,60,0,24.8,272,Subsistence,FALSE,NO,10,0,0,0,27.2
+Alaska Native Village,Native Village of Kobuk,Alaska,TRUE,AK,33.3,0,35,69,Subsistence,FALSE,YES,17.1,0,0,0,4
+Alaska Native Village,Shoonaq` Tribe of Kodiak,Alaska,FALSE,AK,0,0,0,6334,NA,FALSE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Kokhanok Village,Alaska,TRUE,AK,58.8,2.4,7.7,152,Government,FALSE,YES,29.5,0,0,0,5.2
+Alaska Native Village,New Koliganek Village Council (formerly Koliganek Village),Alaska,TRUE,AK,53,0,11.1,181,Government,FALSE,YES,97.1,0,0,0,1.9
+Alaska Native Village,Native Village of Kongiganak,Alaska,TRUE,AK,48.8,2.4,16.3,294,Government,FALSE,YES,1.9,0,0,0,154.7
+American Indian Reservation,Paiute Indian Tribe of Utah (Cedar City ; Kanosh ; Koosharem ; Indian Peaks ; Shivwits Bands of Paiutes),Western,FALSE,UT,0,0,45,0,Sewing,FALSE,NA,1.2,0,0,0,0
+American Indian Reservation,Kootenai Tribe of Idaho,Northwest,TRUE,ID,73.2,0,8.3,101,Agriculture,TRUE,YES,8.9,0,100,100,11.3
+Alaska Native Village,Village of Kotlik,Alaska,TRUE,AK,52.8,3,36.6,461,Fish,FALSE,YES,3.2,0,0,0,144.1
+Alaska Native Village,Native Village of Kotzebue,Alaska,TRUE,AK,63.4,2.8,13.1,2751,Retail,FALSE,NA,27,0,0,0,101.9
+Alaska Native Village,Native Village of Koyuk,Alaska,TRUE,AK,67.3,0,37.3,231,Subsistence,FALSE,YES,4.5,0,0,0,51.3
+Alaska Native Village,Koyukuk Native Village,Alaska,TRUE,AK,59,3.3,27,126,Government,FALSE,YES,6.2,0,0,0,20.3
+Alaska Native Village,Organized Village of Kwethluk,Alaska,FALSE,AK,43.8,2.4,11.8,558,Government,FALSE,YES,12.1,0,0,0,46.1
+Alaska Native Village,Native Village of Kwigillingok,Alaska,TRUE,AK,62.2,3,9.2,278,Fish,FALSE,YES,20.6,0,0,0,13.5
+Alaska Native Village,Native Village of Kwinhagak (aka Quinhagak),Alaska,TRUE,AK,41.4,3.8,5.9,501,Subsistence,FALSE,YES,4.9,0,0,0,102.2
+American Indian Reservation,"Keweenaw Bay Indian Community, Michigan",Midwest,FALSE,MI,0,0,0,0,Construction,TRUE,NA,3.8,NA,NA,NA,0
+American Indian Reservation,"Keweenaw Bay Indian Community, Michigan",Midwest,FALSE,MI,0,0,0,803,Construction,TRUE,NA,102.1,13.3,0,15.9,7.9
+Trust Land related to a Federally Recognized Reservation,"Keweenaw Bay Indian Community, Michigan",Midwest,FALSE,MI,0,0,0,803,Construction,TRUE,NA,0.2,13.3,0,15.9,4015
+American Indian Reservation,"La Jolla Band of Luiseno Mission Indians of the La Jolla Reservation, California",Pacific,FALSE,CA,66.7,6.3,19.4,162,Retail,FALSE,YES,13.5,0,0,7.4,12
+American Indian Reservation,"La Posta Band of Diegueno Mission Indians of the La Posta Indian Reservation, California",Pacific,FALSE,CA,0,0,0,0,Tourism,FALSE,YES,5.7,0,0,0,0
+American Indian Reservation,Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin,Midwest,FALSE,WI,74,0,0,4037,Farming,TRUE,NA,118.8,5,16.7,0,34
+Trust Land related to a Federally Recognized Reservation,Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin,Midwest,FALSE,WI,74,0,0,4037,Farming,TRUE,NA,9.5,5,16.7,0,424.9
+American Indian Reservation,Lac du Flambeau Band of Lake Superior Chippewa Indians of the Lac du Flambeau Reservation of Wisconsin,Midwest,FALSE,WI,59,1.6,24.2,2408,Construction,TRUE,YES,136.1,68,0,31.9,17.7
+American Indian Reservation,"Lac Vieux Desert Band of Lake Superior Chippewa Indians, Michigan",Midwest,FALSE,MI,39.7,0,32,147,Forestry,TRUE,YES,0.1,100,0,0,1470
+American Indian Reservation,"Pueblo of Laguna, New Mexico",Southwest,FALSE,NM,72.5,4.1,19.4,3845,Agriculture,TRUE,NA,837.6,90.1,0,0,4.6
+American Indian Reservation,"Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, South Dakota (formerly the Sisseton-Wahpeton Sioux Tribe of the Lake Traverse Reservation)",Great Plains,FALSE,SD,63.7,3.6,23.7,10840,Agriculture,TRUE,NA,1508.3,25.2,0,74.8,7.2
+Alaska Native Village,Native Village of Larsen Bay,Alaska,FALSE,AK,49.2,3.3,40,147,Fish,FALSE,YES,2.8,0,0,0,52.5
+American Indian Reservation,"Las Vegas Tribe of Paiute Indians of the Las Vegas Indian Colony, Nevada",Western,FALSE,NV,52.9,0,0,86,Smokeshop,TRUE,NA,6.2,100,0,0,13.9
+American Indian Reservation,"Cahto Indian Tribe of the Laytonville Rancheria, California",Pacific,FALSE,CA,35.2,0,58.7,137,Agriculture,FALSE,YES,0.3,100,0,0,456.7
+American Indian Reservation,Minnesota Chippewa Tribe - Leech Lake Band,Midwest,TRUE,MN,60.2,4.1,30.9,3725,Farming,TRUE,NA,1285.9,3.6,0,2.1,2.9
+Trust Land related to a Federally Recognized Reservation,Minnesota Chippewa Tribe - Leech Lake Band,Midwest,TRUE,MN,60.2,4.1,30.9,3725,Farming,TRUE,NA,0.3,3.6,0,2.1,12416.7
+Alaska Native Village,Lesnoi Village (aka Woody Island),Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,1.7,NA,NA,NA,0
+Alaska Native Village,Levelock Village,Alaska,TRUE,AK,59.6,1.8,20.9,105,Fish,FALSE,YES,28.2,0,0,0,3.7
+American Indian Reservation,"Pit River Tribe, California   - Likely Rancheria",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,YES,0,0,0,0,NA
+Alaska Native Village,Lime Village,Alaska,FALSE,AK,30.8,7.7,13.6,42,Subsistence,FALSE,YES,82.5,0,0,0,0.5
+American Indian Reservation,"Little River Band of Ottawa Indians, Michigan",Midwest,FALSE,MI,0,0,0,0,NA,TRUE,NA,0.3,NA,NA,NA,0
+American Indian Reservation,"Little Traverse Bay Bands of Odawa Indians, Michigan",Midwest,FALSE,MI,0,0,0,0,Expects,TRUE,NA,0,0,0,0,NA
+American Indian Reservation,Paiute-Shoshone Indians of the Lone Pine Community,Pacific,FALSE,CA,68.4,0,23.5,235,NA,FALSE,YES,0.4,0,0,0,587.5
+American Indian Reservation,"Pit River Tribe, California   - Lookout Rancheria",Pacific,FALSE,CA,80,0,25,62,Forestry,FALSE,YES,0.1,0,0,0,620
+American Indian Reservation,"Los Coyotes Band of Cahuilla & Cupeno Indians of the Los Coyotes Reservation, California(formerly the Los Coyotes Band of Cahuilla Mission Indians of",Pacific,FALSE,CA,61.4,0,0,181,Agriculture,FALSE,YES,38.8,0,0,0,4.7
+American Indian Reservation,"Lovelock Piaute Tribe of the Lovelock Indian Colony, Nevada",Western,FALSE,NV,61.5,0,0,92,Agriculture,FALSE,YES,9.4,100,0,0,9.8
+American Indian Reservation,"Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota",Great Plains,FALSE,SD,64.8,5.8,15.8,1095,Farming,TRUE,NA,382.4,0,0,0,2.9
+Trust Land related to a Federally Recognized Reservation,"Lower Brule Sioux Tribe of the Lower Brule Reservation, South Dakota",Great Plains,FALSE,SD,64.8,5.8,15.8,1095,Farming,TRUE,NA,5.5,0,0,0,199.1
+American Indian Reservation,"Lower Elwha Tribal Community of the Lower Elwah Reservation, Washington",Northwest,TRUE,WA,36.7,0,48.6,112,Construction,TRUE,YES,0.7,0,0,0,160
+Alaska Native Village,Village of Lower Kalskag,Alaska,TRUE,AK,41.2,0,37.9,291,Subsistence,FALSE,YES,1.7,0,0,0,171.2
+Federally Recognized Tribal Entity,"Lower Lake Rancheria, California",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,Lower Sioux Indian Community in the State of Minnesota,Midwest,FALSE,MN,46.5,1.2,8.3,241,Agriculture,TRUE,YES,2.8,100,0,0,86.1
+American Indian Reservation,"Lummi Tribe of the Lummi Reservation, Washington",Northwest,TRUE,WA,64.8,3.7,22.6,3164,Agriculture,FALSE,YES,20.3,0,0,53.8,155.9
+Federally Recognized Tribal Entity,Lytton Rancheria of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,"Makah Indian Tribe of the Makah Indian Reservation, Washington",Northwest,TRUE,WA,64.8,11.4,15.5,1238,Agriculture,TRUE,YES,42.9,100,100,0,28.9
+American Indian Reservation,"Makah Indian Tribe of the Makah Indian Reservation, Washington",Northwest,TRUE,WA,64.8,11.4,15.5,1238,Agriculture,TRUE,YES,1.2,100,100,0,1031.7
+Trust Land related to a Federally Recognized Reservation,"Makah Indian Tribe of the Makah Indian Reservation, Washington",Northwest,TRUE,WA,64.8,11.4,15.5,1238,Agriculture,TRUE,YES,3,100,100,0,412.7
+American Indian Reservation,"Manchester Band of Pomo Indians of the Manchester-Point Arena Rancheria, California",Pacific,FALSE,CA,35.6,0,50,212,NA,FALSE,NA,0.6,0,0,0,353.3
+Alaska Native Village,Manley Hot Springs Village,Alaska,TRUE,AK,69.6,13,12.5,96,Retail,FALSE,YES,54.3,0,0,0,1.8
+Alaska Native Village,Manokotak Village,Alaska,TRUE,AK,59.8,3,16.1,385,Fish,FALSE,YES,1.2,0,0,0,320.8
+American Indian Reservation,"Manzanita Band of Diegueno Mission Indians of the Manzanita Reservation, California",Pacific,TRUE,CA,60.9,8.7,0,66,Agriculture,FALSE,YES,5.6,0,0,0,11.8
+American Indian Reservation,"Ak Chin Indian Community of the Maricopa (Ak Chin) Indian Reservation, Arizona",Western,FALSE,AZ,68.2,0,5.2,495,Farming,TRUE,NA,32.9,100,0,0,15
+Alaska Native Village,Native Village of Marshall (aka Fortuna Ledge),Alaska,FALSE,AK,49.6,1.6,19,273,Fish,FALSE,YES,4.5,0,0,0,60.7
+Alaska Native Village,Native Village of Mary's Igloo,Alaska,TRUE,AK,0,0,0,0,Subsistence,FALSE,NO,7.6,NA,NA,NA,0
+American Indian Reservation,Mashantucket Pequot Tribe of Connecticut,Eastern,FALSE,CT,76.2,9.5,21.7,71,Gaming,TRUE,NA,1.9,100,NA,NA,37.4
+Federally Recognized Tribal Entity,Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians of Michigan,Midwest,FALSE,MI,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Alaska Native Village,McGrath Native Village,Alaska,TRUE,AK,67,8.7,9.9,528,Transportation,FALSE,NA,54.5,0,0,0,9.7
+Federally Recognized Tribal Entity,"Mechoopda Indian Tribe of Chico Rancheria, California",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,1.3,NA,NA,NA,0
+Alaska Native Village,Native Village of Mekoryuk,Alaska,FALSE,AK,60,6.3,16.7,177,Government,FALSE,YES,7.4,0,0,0,23.9
+American Indian Reservation,Menominee Indian Tribe of Wisconsin,Midwest,FALSE,WI,59.4,2.8,21.9,3411,Construction,TRUE,YES,365,0,0,0,9.3
+Trust Land related to a Federally Recognized Reservation,Menominee Indian Tribe of Wisconsin,Midwest,FALSE,WI,59.4,2.8,21.9,3411,Construction,TRUE,YES,0,0,0,0,NA
+Alaska Native Village,Mentasta Traditional Council (formerly Mentasta Lake Village),Alaska,FALSE,AK,35,0,18.8,96,Subsistence,FALSE,YES,89.1,0,0,0,1.1
+American Indian Reservation,"Mesa Grande Band of Diegueno Mission Indians of the Mesa Grande Reservation, California",Pacific,FALSE,CA,64.5,0,22.2,63,NA,FALSE,NA,12.7,0,0,0,5
+American Indian Reservation,"Mescalero Apache Tribe of the Mescalero Reservation, New Mexico",Southwest,FALSE,NM,65.6,1.3,35.5,3619,Farming,TRUE,YES,719.9,100,100,0,5
+Federally Recognized Tribal Entity,Miami Tribe of Oklahoma,Eastern Oklahoma,TRUE,OK,0,0,0,393,Government,TRUE,NA,27.9,100,0,0,14.1
+American Indian Reservation,Miccosukee Tribe of Indians of Florida,Eastern,FALSE,FL,18.5,0,0,72,Retail,TRUE,YES,128.2,0,0.4,0,0.6
+American Indian Reservation,Middletown Rancheria of Pomo Indians of California,Pacific,FALSE,CA,100,0,66.7,76,Tourism,TRUE,NA,0.2,0,100,0,380
+American Indian Reservation,"Minnesota Chippewa Tribe, Mille Lacs Band, Minnesota",Midwest,TRUE,MN,37.3,5.9,3.4,1151,Agriculture,TRUE,YES,6.6,5.7,0,0,174.4
+Trust Land related to a Federally Recognized Reservation,"Minnesota Chippewa Tribe, Mille Lacs Band, Minnesota",Midwest,TRUE,MN,37.3,5.9,3.4,1151,Agriculture,TRUE,YES,2.6,5.7,0,0,442.7
+Trust Land related to a Federally Recognized Reservation,"Minnesota Chippewa Tribe, Minnesota",Midwest,FALSE,NA,0,0,0,0,NA,FALSE,NA,0.7,NA,NA,NA,0
+Alaska Native Village,Native Village of Minto,Alaska,TRUE,AK,31.4,0,60.3,218,Subsistence,FALSE,YES,138.7,0,0,0,1.6
+American Indian Reservation,"Moapa Band of Paiute Indians of the Moapa River Indian Reservation, Nevada",Western,FALSE,NV,97,0,0,425,Agriculture,TRUE,NA,112.1,100,100,0,3.8
+Federally Recognized Tribal Entity,Modoc Tribe of Oklahoma,Eastern Oklahoma,TRUE,OK,0,0,0,393,Ranching,TRUE,NA,6,100,0,0,65.5
+American Indian Reservation,Mohegan Indian Tribe of Connecticut,Eastern,TRUE,CT,0,0,0,0,Government,TRUE,NA,0.7,100,100,0,0
+American Indian Reservation,"Sokaogon Chippewa Community, Wisconsin",Midwest,FALSE,WI,56.3,0,45.2,616,Construction,TRUE,NA,3.3,0,100,0,186.7
+American Indian Reservation,"Pit River Tribe, California   - Montgomery Creek Rancheria",Pacific,FALSE,CA,0,0,50,8,Agriculture,TRUE,YES,0.2,0,0,0,40
+American Indian Reservation,Mooretown Rancheria of Maidu Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,TRUE,NA,0.1,NA,NA,NA,0
+American Indian Reservation,"Morongo Band of Cahuilla Mission Indians of the Morongo Reservation, California",Pacific,FALSE,CA,56.3,2.5,14.5,1109,Tourism,TRUE,YES,52,0,0,0,21.3
+American Indian Reservation,"Muckleshoot Indian Tribe of the Muckleshoot Reservation, Washington",Northwest,TRUE,WA,0,0,0,3238,Fish,TRUE,YES,5.7,18,28.5,0,568.1
+Trust Land related to a Federally Recognized Reservation,"Muckleshoot Indian Tribe of the Muckleshoot Reservation, Washington",Northwest,TRUE,WA,0,0,0,3238,Fish,TRUE,YES,0,18,28.5,0,NA
+Federally Recognized Tribal Entity,"Muscogee (Creek) Nation, Oklahoma",Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,FALSE,NA,4760.5,NA,NA,NA,0
+Alaska Native Village,Naknek Native Village,Alaska,TRUE,AK,71.1,4.7,3.9,575,Government,FALSE,NA,72.8,0,0,0,7.9
+American Indian Reservation,"Pueblo of Nambe, New Mexico",Southwest,FALSE,NM,74.2,8.8,8.3,1358,Agriculture,FALSE,YES,32.3,100,0,0,42
+Alaska Native Village,Native Village of Napaimute,Alaska,TRUE,AK,0,0,100,3,none,FALSE,NO,128.9,0,0,0,0
+Alaska Native Village,Native Village of Napakiak,Alaska,TRUE,AK,40.2,1.2,30.3,318,Government,FALSE,YES,6.5,0,0,0,48.9
+Alaska Native Village,Native Village of Napaskiak,Alaska,TRUE,AK,52.9,0,22.7,328,Government,FALSE,YES,0.3,0,0,0,1093.3
+American Indian Reservation,Narragansett Indian Tribe of Rhode Island,Eastern,FALSE,RI,80,0,0,30,Construction,FALSE,NA,25.8,100,100,0,1.2
+American Indian Reservation,Navajo Nation of Arizona,Navajo,FALSE,AZ,41.2,2.9,27.9,157716,Agriculture,FALSE,YES,15963.4,96.3,2.7,4.7,9.9
+American Indian Reservation,Navajo Nation,Southwest,FALSE,NM,27.6,2.1,25.1,1528,Farming,FALSE,YES,98.9,68.7,0,0,15.4
+American Indian Reservation,Navajo Nation,Southwest,FALSE,NM,42.3,1.3,28.1,1183,Receives,FALSE,NA,729.2,0,90,0,1.6
+American Indian Reservation,Navajo Nation,Southwest,FALSE,NM,35,8.1,25,2470,Forestry,FALSE,NA,448.9,67.6,0,0,5.5
+Trust Land related to a Federally Recognized Reservation,Navajo Nation of New Mexico,Navajo,FALSE,AZ,41.2,2.9,27.9,157716,Agriculture,FALSE,YES,571.7,96.3,2.7,4.7,275.9
+Trust Land related to a Federally Recognized Reservation,Navajo Nation,Southwest,FALSE,NM,27.6,2.1,25.1,1528,Farming,FALSE,YES,7.2,68.7,0,0,212.2
+Alaska Native Village,Native Village of Nelson Lagoon,Alaska,TRUE,AK,25.5,0,0,83,Fish,FALSE,YES,135,0,0,0,0.6
+Alaska Native Village,Nenana Native Association,Alaska,TRUE,AK,53.4,0,17.5,377,Transportation,FALSE,YES,6.1,0,0,0,61.8
+Alaska Native Village,New Stuyahok Village,Alaska,TRUE,AK,33.3,0.6,17.7,391,Fish,FALSE,YES,35.6,0,0,0,11
+Alaska Native Village,Newhalen Village,Alaska,TRUE,AK,68.7,10.4,5.5,160,Fish,FALSE,YES,8.3,0,0,0,19.3
+Alaska Native Village,Newtok Village,Alaska,TRUE,AK,35.8,0,25.9,207,Government,FALSE,YES,1.1,0,0,0,188.2
+American Indian Reservation,Nez Perce Tribe of Idaho,Northwest,FALSE,ID,70.6,7.1,26.1,16159,Agriculture,TRUE,YES,1204.8,11.4,4.9,6.4,13.4
+Alaska Native Village,Native Village of Nightmute,Alaska,FALSE,AK,32.9,2.5,26.9,153,Subsistence,FALSE,YES,97.1,0,0,0,1.6
+Alaska Native Village,Nikolai Village,Alaska,TRUE,AK,43.9,0,35.5,109,Subsistence,FALSE,YES,4.9,0,0,0,22.2
+Alaska Native Village,Native Village of Nikolski,Alaska,TRUE,AK,36.4,0,0,35,Fish,FALSE,YES,134.4,0,0,0,0.3
+Alaska Native Village,Ninilchik Village,Alaska,FALSE,AK,69.2,2.3,24.4,456,Subsistence,FALSE,YES,9.5,0,0,0,48
+American Indian Reservation,"Nisqually Indian Tribe of the Nisqually Reservation, Washington",Northwest,TRUE,WA,0,0,0,1726,Fish,TRUE,YES,8.1,10.4,10.4,0,213.1
+Alaska Native Village,Native Village of Noatak,Alaska,TRUE,AK,66.3,2.5,45.1,333,Subsistence,FALSE,YES,12.2,0,0,0,27.3
+Alaska Native Village,Nome Eskimo Community,Alaska,TRUE,AK,74.5,19.1,11,3500,Subsistence,FALSE,NA,13.4,0,0,0,261.2
+Alaska Native Village,Nondalton Village,Alaska,FALSE,AK,47.3,0,42.6,178,Fish,FALSE,YES,8.8,0,0,0,20.2
+American Indian Reservation,Nooksack Indian Tribe of Washington,Northwest,FALSE,WA,0,0,0,697,Retail,TRUE,YES,4.3,100,97.2,0,162.1
+Alaska Native Village,Noorvik Native Community,Alaska,TRUE,AK,44.1,3.6,17.5,531,Subsistence,FALSE,YES,1.3,0,0,0,408.5
+American Indian Reservation,"Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation, Montana",Rocky Mountain,FALSE,MT,61.6,5.6,31.4,3906,Agriculture,TRUE,NA,694.7,0,0,0,5.6
+Trust Land related to a Federally Recognized Reservation,"Northern Cheyenne Tribe of the Northern Cheyenne Indian Reservation, Montana",Rocky Mountain,FALSE,MT,61.6,5.6,31.4,3906,Agriculture,TRUE,NA,8.5,0,0,0,459.5
+American Indian Reservation,Northfork Rancheria of Mono Indians of California,Pacific,FALSE,CA,0,0,0,0,Forestry,FALSE,YES,0.1,0,100,100,0
+Alaska Native Village,Northway Village,Alaska,FALSE,AK,37.7,0,26,123,Subsistence,FALSE,YES,2.7,0,0,0,45.6
+American Indian Reservation,Northwestern Band of Shoshoni Nation of Utah (Washakie),Northwest,FALSE,UT,0,0,0,0,NA,FALSE,NA,0.3,NA,NA,NA,0
+Alaska Native Village,Native Village of Nuiqsut (aka Nooiksut),Alaska,FALSE,AK,35.4,1.4,33.1,354,Subsistence,FALSE,YES,8.3,0,0,0,42.7
+Alaska Native Village,Nulato Village,Alaska,TRUE,AK,77.2,6.5,25.7,359,Government,FALSE,YES,53,0,0,0,6.8
+Alaska Native Village,Native Village of Nunapitchuk,Alaska,FALSE,AK,50,3.1,12.3,378,Subsistence,FALSE,YES,8.5,0,0,0,44.5
+American Indian Reservation,Te-Moak Tribe of Western Shoshone Indians of Nevada - Odgers Ranch,Western,FALSE,NA,0,0,0,0,NA,FALSE,NA,3,NA,NA,NA,0
+Alaska Native Village,Village of Ohogamiut,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,8.7,NA,NA,NA,0
+American Indian Reservation,Seneca Nation of New York,Eastern,FALSE,NY,0,0,0,0,NA,TRUE,NA,1,0,0,0,0
+Alaska Native Village,Village of Old Harbor,Alaska,FALSE,AK,45.6,0,39.1,284,Fish,FALSE,YES,20.6,0,0,0,13.8
+American Indian Reservation,Omaha Tribe of Nebraska,Great Plains,FALSE,NE,0,0,0,2500,Agriculture,TRUE,NA,256,NA,NA,NA,9.8
+American Indian Reservation,Oneida Tribe of Indians of Wisconsin,Midwest,TRUE,WI,67.4,6.2,12,2450,Agriculture,TRUE,NA,102.1,100,58.4,0,24
+American Indian Reservation,Oneida Nation of New York,Eastern,FALSE,NY,0,0,0,0,Tourism,TRUE,NA,0.1,0,0,0,0
+Trust Land related to a Federally Recognized Reservation,Oneida Tribe of Indians of Wisconsin,Midwest,TRUE,WI,67.4,6.2,12,2450,Agriculture,TRUE,NA,0.1,100,58.4,0,24500
+American Indian Reservation,Onondaga Nation of New York,Eastern,FALSE,NY,0,0,0,2000,Tourism,FALSE,NA,9.3,0,0,0,215.1
+American Indian Reservation,"Osage Tribe, Oklahoma",Eastern Oklahoma,FALSE,OK,77.1,9.6,10.2,41394,Cattle,TRUE,YES,2295.5,0,0,0,18
+Alaska Native Village,Oscarville Traditional Village,Alaska,TRUE,AK,40,0,0,57,Fish,FALSE,YES,1.5,0,0,0,38
+Federally Recognized Tribal Entity,"Otoe-Missouria Tribe of Indians, Oklahoma",Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,257.7,NA,NA,NA,0
+Trust land for which no reservation exists,"Otoe-Missouria Tribe of Indians, Oklahoma",Southern Plains,FALSE,OK,0,0,47,0,Agriculture,TRUE,YES,32.6,12.1,12.1,0,0
+Federally Recognized Tribal Entity,Ottawa Tribe of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,15,377,Farming,FALSE,NA,0.1,100,0,0,3770
+Trust land for which no reservation exists,Ottawa Tribe of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,15,377,Farming,FALSE,NA,0.1,100,0,0,3770
+Alaska Native Village,Native Village of Ouzinkie,Alaska,FALSE,AK,62.6,0,18.9,209,Fish,FALSE,YES,5.6,0,0,0,37.3
+Alaska Native Village,Native Village of Paimiut,Alaska,FALSE,AK,0,0,0,0,NA,FALSE,NA,25.2,NA,NA,NA,0
+American Indian Reservation,"Pala Band of Luiseno Mission Indians of the Pala Reservation, California",Pacific,FALSE,CA,64.8,6.7,16.8,1125,Agriculture,TRUE,YES,18.3,0,0,0,61.5
+Trust Land related to a Federally Recognized Reservation,"Pala Band of Luiseno Mission Indians of the Pala Reservation, California",Pacific,FALSE,CA,64.8,6.7,16.8,1125,Agriculture,TRUE,YES,0.9,0,0,0,1250
+American Indian Reservation,Pascua Yaqui Tribe of Arizona,Western,FALSE,AZ,28.5,2.3,33.2,2406,Government,TRUE,YES,1.4,100,0,0,1718.6
+Federally Recognized Tribal Entity,Paskenta Band of Nomlaki Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Trust Land related to a Federally Recognized Reservation,Passamaquoddy Tribe of Maine,Eastern,FALSE,NA,0,0,0,0,NA,FALSE,NA,151.5,NA,NA,NA,0
+American Indian Reservation,Passamaquoddy Tribe of Maine,Eastern,FALSE,ME,57.5,0,8.6,542,Forestry,TRUE,YES,43.4,0,0,0,12.5
+American Indian Reservation,Passamaquoddy Tribe of Pleasant Point,Eastern,FALSE,NA,0,0,0,0,NA,FALSE,NA,0.4,NA,NA,NA,0
+Alaska Native Village,Pauloff Harbor Village,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NO,25.5,NA,NA,NA,0
+American Indian Reservation,"Pauma Band of Luiseno Mission Indians of the Pauma and Yuima Reservation, California",Pacific,FALSE,CA,58.8,3.9,29.3,151,Agriculture,FALSE,NA,9.3,0,0,0,16.2
+Federally Recognized Tribal Entity,Pawnee Nation of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,NA,FALSE,NA,507.8,NA,NA,NA,0
+Trust land for which no reservation exists,Pawnee Nation of Oklahoma,Southern Plains,FALSE,OK,73.5,6.9,12.1,15413,Land,FALSE,YES,30.7,100,100,100,502.1
+American Indian Reservation,"Pechanga Band of Luiseno Mission Indians of the Pechanga Reservation, California",Pacific,FALSE,CA,60.7,6.7,13.5,420,NA,TRUE,NA,7,0,0,0,60
+Alaska Native Village,Pedro Bay Village,Alaska,FALSE,AK,57.9,0,0,42,Fish,FALSE,YES,26.7,0,0,0,1.6
+American Indian Reservation,Penobscot Tribe of Maine,Eastern,FALSE,ME,75.3,12.6,12.3,469,Forestry,FALSE,YES,112.3,0,0,0,4.2
+Federally Recognized Tribal Entity,Peoria Tribe of Indians of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,15,1181,Inter-Tribal,FALSE,NA,0.1,100,0,0,11810
+Trust land for which no reservation exists,Peoria Tribe of Indians of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,15,1181,Inter-Tribal,FALSE,NA,0.1,100,0,0,11810
+Alaska Native Village,Native Village of Perryville,Alaska,TRUE,AK,43.4,0,13.6,108,Fish,FALSE,YES,37.1,0,0,0,2.9
+Alaska Native Village,Petersburg Indian Association,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,9.6,NA,NA,NA,0
+American Indian Reservation,Picayune Rancheria of Chukchansi Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.1,NA,NA,NA,0
+American Indian Reservation,"Pueblo of Picuris, New Mexico",Southwest,FALSE,NM,77.9,0,23.2,1899,Agriculture,FALSE,YES,27.3,100,0,0,69.6
+Alaska Native Village,Native Village of Pilot Point,Alaska,TRUE,AK,32,0,0,53,Fish,FALSE,YES,14.2,0,0,0,3.7
+Alaska Native Village,Pilot Station Traditional Village,Alaska,TRUE,AK,48.3,0,35.1,463,Government,FALSE,YES,2,0,0,0,231.5
+American Indian Reservation,"Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota",Great Plains,FALSE,SD,0,0,0,20806,Agriculture,TRUE,NA,4348.7,39.9,0,0,4.8
+American Indian Reservation,Pinoleville Rancheria of Pomo Indians of California,Pacific,FALSE,CA,16.1,0,66.7,70,Agriculture,FALSE,NA,0.2,2,29.3,0,350
+Alaska Native Village,Native Village of Pitka's Point,Alaska,TRUE,AK,26.7,0,5.1,135,Fish,FALSE,YES,1.5,0,0,0,90
+Alaska Native Village,Platinum Traditional Village,Alaska,FALSE,AK,38.2,0,8,64,Fish,FALSE,YES,44.6,0,0,0,1.4
+American Indian Reservation,Poarch Band of Creek Indians of Alabama,Eastern,FALSE,AL,27.6,0,0,190,Tourism,TRUE,YES,0.4,0,100,0,475
+Alaska Native Village,Native Village of Point Hope,Alaska,FALSE,AK,57.6,0,23.4,639,Subsistence,FALSE,YES,5.7,0,0,0,112.1
+Alaska Native Village,Native Village of Point Lay,Alaska,FALSE,AK,51.6,0,11.5,139,Subsistence,FALSE,YES,4.6,0,0,0,30.2
+American Indian Reservation,"Pueblo of Pojoaque, New Mexico",Southwest,FALSE,NM,74.5,9.2,0,2481,Construction,TRUE,NA,21.1,100,0,0,117.6
+Federally Recognized Tribal Entity,"Pokagon Band of Potawatomi Indians, Michigan and Indiana",Midwest,FALSE,MI,0,0,0,0,Construction,FALSE,YES,100.9,NA,NA,NA,0
+Federally Recognized Tribal Entity,Ponca Tribe of Indians of Oklahoma,Southern Plains,TRUE,OK,0,0,29.19,1678,Bingo,TRUE,NA,0.1,11.8,11.8,88.2,16780
+American Indian Reservation,Ponca Tribe of Nebraska,Great Plains,FALSE,NE,0,0,0,0,Agriculture,FALSE,YES,0.2,NA,NA,NA,0
+Trust land for which no reservation exists,Ponca Tribe of Indians of Oklahoma,Southern Plains,TRUE,OK,0,0,29.19,1678,Bingo,TRUE,NA,22.3,11.8,11.8,88.2,75.2
+American Indian Reservation,"Port Gamble Indian Community of the Port Gamble Reservation, Washington",Northwest,TRUE,WA,0,0,24.6,555,Retail,FALSE,YES,1.9,100,100,0,292.1
+Alaska Native Village,Native Village of Port Graham,Alaska,TRUE,AK,63.6,0,38.8,166,Fish,FALSE,YES,5.9,0,0,0,28.1
+Alaska Native Village,Native Village of Port Heiden,Alaska,TRUE,AK,55.6,0,22,119,Fish,FALSE,YES,51.7,0,0,0,2.3
+Alaska Native Village,Native Village of Port Lions,Alaska,FALSE,AK,57.3,0,14.1,222,Fish,FALSE,YES,6.6,0,0,0,33.6
+American Indian Reservation,"Suquamish Indian Tribe of the Port Madison Reservation, Washington",Northwest,TRUE,WA,71.8,11.3,18.7,4834,Retail,TRUE,NA,11.6,0,0,0,416.7
+Alaska Native Village,Portage Creek Village (aka Ohgsenakale),Alaska,TRUE,AK,100,0,0,5,Fish,FALSE,YES,13,0,0,0,0.4
+American Indian Reservation,"Prairie Band of Potawatomi Nation, Kansas",Southern Plains,FALSE,KS,62.8,2.1,16,1079,Bingo,TRUE,YES,120.1,12.9,0,0,9
+Trust Land related to a Federally Recognized Reservation,"Prairie Band of Potawatomi Nation, Kansas",Southern Plains,FALSE,KS,62.8,2.1,16,1079,Bingo,TRUE,YES,0.1,12.9,0,0,10790
+American Indian Reservation,"Potter Valley Tribe, California (formerly the Potter Valley Rancheria of Pomo Indians of California)",Pacific,FALSE,CA,44,0,59,138,Forestry,FALSE,YES,0,0,0,0,NA
+American Indian Reservation,Prairie Island Indian Community in the State of Minnesota,Midwest,FALSE,MN,50,0,50,160,Government,TRUE,NA,0.8,0,100,0,200
+Trust Land related to a Federally Recognized Reservation,Prairie Island Indian Community in the State of Minnesota,Midwest,FALSE,MN,50,0,50,160,Government,TRUE,NA,0.9,0,100,0,177.8
+Alaska Native Village,Pribilof Islands Aleut Communities of St. George Islands,Alaska,TRUE,AK,62.2,1.4,14.9,138,Government,FALSE,YES,34.9,0,0,0,4
+Alaska Native Village,Pribilof Islands Aleut Communities of St. Paul Islands,Alaska,TRUE,AK,53.8,0,10.8,763,Fish,FALSE,YES,41.8,0,0,0,18.3
+American Indian Reservation,"Puyallup Tribe of the Puyallup Reservation, Washington",Northwest,FALSE,WA,0,0,0,0,Tourism,TRUE,YES,28.9,70.9,0,29.1,0
+Trust Land related to a Federally Recognized Reservation,"Puyallup Tribe of the Puyallup Reservation, Washington",Northwest,FALSE,WA,0,0,0,0,Tourism,TRUE,YES,0,70.9,0,29.1,NA
+American Indian Reservation,"Pyramid Lake Paiute Tribe of the Pyramid Lake Reservation, Nevada",Western,FALSE,NV,68,0,0,1603,Agriculture,FALSE,YES,724.4,100,0,0,2.2
+Federally Recognized Tribal Entity,Quapaw Tribe of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,Government,FALSE,YES,0.2,5,0,0,0
+Trust land for which no reservation exists,Quapaw Tribe of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,Government,FALSE,YES,19.7,5,0,0,0
+American Indian Reservation,Quartz Valley Indian Community of the Quartz Valley Reservation of Calfornia,Pacific,FALSE,CA,0,0,0,57,Forestry,FALSE,YES,0.9,4,17.8,13.8,63.3
+American Indian Reservation,"Quileute Tribe of the Quileute Reservation, Washington",Northwest,FALSE,WA,0,0,77,480,Tourism,FALSE,YES,1.5,100,100,0,320
+American Indian Reservation,"Quinault Tribe of the Quinault Reservation, Washington",Northwest,TRUE,WA,62.3,5.8,20.8,1271,Fish,TRUE,YES,324.2,0,0,59.6,3.9
+American Indian Reservation,Ramona Band or Village of Cahuilla Mission Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.9,NA,NA,NA,0
+Alaska Native Village,Rampart Village,Alaska,TRUE,AK,38.5,0,78.8,68,Subsistence,FALSE,YES,168.8,0,0,0,0.4
+American Indian Reservation,Red Cliff Band of Lake Superior Chippewa Indians of Wisconsin,Midwest,FALSE,WI,57.1,4.4,27.1,876,Government,TRUE,YES,21.8,44,0,13.2,40.2
+Alaska Native Village,Village of Red Devil,Alaska,TRUE,AK,50,0,14.3,53,Subsistence,FALSE,YES,26.4,0,0,0,2
+American Indian Reservation,"Red Lake Band of Chippewa Indians, Minnesota",Midwest,TRUE,MN,0,0,39,0,Sawmill,TRUE,NA,154.9,100,0,0,0
+American Indian Reservation,"Red Lake Band of Chippewa Indians, Minnesota",Midwest,TRUE,MN,0,0,39,0,Sawmill,TRUE,NA,1014.8,100,0,0,0
+American Indian Reservation,"Red Lake Band of Chippewa Indians, Minnesota",Midwest,TRUE,MN,0,0,39,0,Sawmill,TRUE,NA,89,100,0,0,0
+American Indian Reservation,Redding Rancheria of California,Pacific,TRUE,CA,54.5,0,33,72,Government,TRUE,YES,0,0,0,0,NA
+American Indian Reservation,Redwood Valley Rancheria of Pomo Indians of California,Pacific,FALSE,CA,0,0,0,111,Agriculture,FALSE,NA,0.4,0,0,0,277.5
+American Indian Reservation,"Reno-Sparks Indian Colony, Nevada",Western,FALSE,NV,0,48.1,0,742,Retail,TRUE,YES,3.3,0,100,0,224.8
+American Indian Reservation,"Resighini Rancheria, California",Pacific,FALSE,CA,42.3,0,76.9,51,Agriculture,FALSE,NA,0.4,0,0,0,127.5
+American Indian Reservation,"Rincon Band of Luiseno Mission Indians of the Rincon Reservation, California",Pacific,FALSE,CA,51.8,0,20.1,1478,Agriculture,TRUE,YES,6,93,0,9.8,246.3
+Trust Land related to a Federally Recognized Reservation,"Rincon Band of Luiseno Mission Indians of the Rincon Reservation, California",Pacific,FALSE,CA,51.8,0,20.1,1478,Agriculture,TRUE,YES,0.4,93,0,9.8,3695
+American Indian Reservation,"Pit River Tribe, California   - Roaring Creek Rancheria",Pacific,FALSE,CA,0,0,0,20,Agriculture,FALSE,YES,0.1,0,0,0,200
+American Indian Reservation,Robinson Rancheria of Pomo Indians of California,Pacific,FALSE,CA,32.7,4.1,15,167,Agriculture,TRUE,NA,0.4,0,0,0,417.5
+American Indian Reservation,"Chippewa-Cree Indians of the Rocky Boy's Reservation, Montana",Rocky Mountain,TRUE,MT,64.3,6.1,32.8,1931,Agriculture,TRUE,YES,175.1,0,0,0,11
+Trust Land related to a Federally Recognized Reservation,"Chippewa-Cree Indians of the Rocky Boy's Reservation, Montana",Rocky Mountain,TRUE,MT,64.3,6.1,32.8,1931,Agriculture,TRUE,YES,1.2,0,0,0,1609.2
+American Indian Reservation,Bear River Band of the Rohnerville Rancheria of California,Pacific,FALSE,CA,0,0,0,6,NA,FALSE,NA,0.1,100,100,0,60
+American Indian Reservation,"Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota",Great Plains,FALSE,SD,0,0,0,12783,Ranching,TRUE,NA,5198,42.9,100,0,2.5
+Trust Land related to a Federally Recognized Reservation,"Rosebud Sioux Tribe of the Rosebud Indian Reservation, South Dakota",Great Plains,FALSE,SD,0,0,0,12783,Ranching,TRUE,NA,20459489.8,42.9,100,0,0
+American Indian Reservation,"Round Valley Indian Tribes of the Round Valley Reservation, California",Pacific,FALSE,CA,50.4,0,31.8,1181,Forestry,FALSE,YES,78.3,0,0,0,15.1
+Trust Land related to a Federally Recognized Reservation,"Round Valley Indian Tribes of the Round Valley Reservation, California",Pacific,FALSE,CA,50.4,0,31.8,1181,Forestry,FALSE,YES,17.7,0,0,0,66.7
+Alaska Native Village,Native Village of Ruby,Alaska,TRUE,AK,40.9,0,12.8,170,Subsistence,FALSE,YES,7.4,0,0,0,23
+American Indian Reservation,Te-Moak Tribe of Western Shoshone Indians of Nevada - Ruby Valley Band,Western,FALSE,NA,0,0,0,0,NA,FALSE,NA,0.9,NA,NA,NA,0
+American Indian Reservation,Rumsey Indian Rancheria of Wintun Indians of California,Pacific,FALSE,CA,100,0,0,50,Agriculture,TRUE,NA,0.9,0,0,0,55.6
+Federally Recognized Tribal Entity,"Sac & Fox Nation, Oklahoma",Southern Plains,FALSE,OK,0,0,0,0,NA,FALSE,NA,752.2,NA,NA,NA,0
+American Indian Reservation,Sac and Fox Tribe of the Mississippi in Iowa,Midwest,FALSE,IA,65.8,6.5,24.8,586,Agriculture,TRUE,YES,5.3,100,0,0,110.6
+Trust Land related to a Federally Recognized Reservation,Sac and Fox Tribe of the Mississippi in Iowa,Midwest,FALSE,IA,65.8,6.5,24.8,586,Agriculture,TRUE,YES,1,100,0,0,586
+American Indian Reservation,Sac & Fox of Missouri in Kansas and Nebraska,Southern Plains,FALSE,KS,50,0,0,162,Agriculture,TRUE,NA,23.9,0,0,1,6.8
+Trust land for which no reservation exists,"Sac & Fox Nation, Oklahoma",Southern Plains,TRUE,OK,65.5,8.5,22.5,876,Government,TRUE,YES,25.5,6.3,0,93.7,34.4
+Alaska Native Village,Native Village of Saint Michael,Alaska,TRUE,AK,41.3,0,22.9,295,Subsistence,FALSE,YES,0.1,0,0,0,2950
+Alaska Native Village,Village of Salamatoff,Alaska,FALSE,AK,62.8,4.3,14.6,999,Mining,FALSE,NO,8.3,0,0,0,120.4
+American Indian Reservation,"Salt River Pima-Maricopa Indian Community of the Salt River Reservation, Arizona",Western,TRUE,AZ,52.9,1.4,13.6,4856,Commercial,TRUE,NA,80.8,52,0,48,60.1
+Federally Recognized Tribal Entity,"Samish Indian Tribe, Washington",Northwest,FALSE,WA,0,0,0,0,NA,FALSE,NA,30.9,NA,NA,NA,0
+American Indian Reservation,"Pueblo of San Felipe, New Mexico",Southwest,FALSE,NM,54.2,1.7,13.1,2398,Ranching,TRUE,NA,81,99.9,0,0.1,29.6
+American Indian Reservation,"Pueblo of San Ildelfonso, New Mexico",Southwest,FALSE,NM,83.6,7.9,13.6,1586,Pottery,TRUE,YES,43.9,97.6,0,0,36.1
+American Indian Reservation,"Pueblo of San Juan, New Mexico",Southwest,FALSE,NM,79.7,5.2,13.5,5237,Agriculture,TRUE,NA,26.8,100,0,0,195.4
+Federally Recognized Tribal Entity,San Juan Southern Paiute Tribe of Arizona,Western,FALSE,AZ,0,0,0,0,Livestock,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,"San Manual Band of Serrano Mission Indians of the San Manual Reservation, California",Pacific,FALSE,CA,44.4,0,0,59,Tourism,TRUE,YES,1,0,0,0,59
+American Indian Reservation,San Pasqual Band of Diegueno Mission Indians of California,Pacific,FALSE,CA,56,0,31.6,517,Agriculture,TRUE,YES,2.2,0,0,0,235
+American Indian Reservation,Tohono O'odham Nation of Arizona - San Xavier,Western,FALSE,AZ,0,0,0,1000,NA,FALSE,NA,111.6,0,0,0,9
+Alaska Native Village,Qagan Tayagungin Tribe of Sand Point Village,Alaska,TRUE,AK,53.3,1.4,2.9,878,Fish,TRUE,NA,7.7,0,0,0,114
+American Indian Reservation,"Pueblo of Sandia, New Mexico",Southwest,FALSE,NM,79.2,26.6,7.6,3944,Agriculture,TRUE,NA,37,100,0,0,106.6
+American Indian Reservation,"Pueblo of Santa Ana, New Mexico",Southwest,FALSE,NM,73,3.7,6.9,624,Bernalillo,TRUE,YES,124.7,100,0,0,5
+American Indian Reservation,"Pueblo of Santa Clara, New Mexico",Southwest,TRUE,NM,82,10,15.2,10230,Farming,TRUE,NA,76.7,100,0,0,133.4
+American Indian Reservation,"Santa Rosa Indian Community of the Santa Rosa Rancheria, California",Pacific,FALSE,CA,26.3,0,26.8,362,Government,TRUE,YES,0.3,0,0,0,1206.7
+American Indian Reservation,"Santa Rosa Band of Cahuilla Mission Indians of the Santa Rosa Reservation, California",Pacific,FALSE,CA,66.7,0,27.3,58,Agriculture,TRUE,YES,17.1,0,0,0,3.4
+American Indian Reservation,"Santa Ynez Band of Chumash Mission Indians of the Santa Ynez Reservation, California",Pacific,FALSE,CA,57.5,9.7,28.5,317,Tourism,TRUE,YES,0.2,0,0,0,1585
+American Indian Reservation,"Santa Ysabel Band of Diegueno Mission Indians of the Santa Ysabel Reservation, California",Pacific,FALSE,CA,45.2,0,9,305,NA,FALSE,NA,14.4,0,0,0,21.2
+American Indian Reservation,"Santee Sioux Nation, Nebraska (formerly the Santee Sioux Tribe of the Santee Reservation of Nebraska)",Great Plains,FALSE,NE,0,0,0,0,Medical,TRUE,YES,183.6,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,"Santee Sioux Nation, Nebraska (formerly the Santee Sioux Tribe of the Santee Reservation of Nebraska)",Great Plains,FALSE,NE,0,0,0,0,Medical,TRUE,YES,0.2,NA,NA,NA,0
+American Indian Reservation,"Pueblo of Santo Domingo, New Mexico",Southwest,FALSE,NM,61.1,1.1,12.6,3446,Farming,FALSE,NA,107.2,98.6,0,0,32.1
+American Indian Reservation,Sauk-Suiattle Tribe of Washington,Northwest,FALSE,WA,0,0,0,0,Forestry,FALSE,YES,0.1,100,100,NA,0
+American Indian Reservation,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,Midwest,TRUE,MI,55.1,0,16.3,723,Construction,TRUE,NA,1.1,NA,100,NA,657.3
+Trust Land related to a Federally Recognized Reservation,Sault Ste. Marie Tribe of Chippewa Indians of Michigan,Midwest,TRUE,MI,55.1,0,16.3,723,Construction,TRUE,NA,0.6,NA,100,NA,1205
+Alaska Native Village,Native Village of Savoonga,Alaska,TRUE,AK,39,0,14.7,519,Subsistence,FALSE,YES,7.3,0,0,0,71.1
+Alaska Native Village,Organized Village of Saxman,Alaska,TRUE,AK,76.2,1.8,25.5,369,Forestry,FALSE,YES,0.6,0,0,0,615
+Alaska Native Village,Native Village of Scammon Bay,Alaska,TRUE,AK,44.2,1.7,18.4,343,Fish,FALSE,YES,0.7,0,0,0,490
+American Indian Reservation,Scotts Valley Band of Pomo Indians of California,Pacific,FALSE,CA,0,0,0,0,Government,FALSE,YES,0.1,NA,NA,NA,0
+Alaska Native Village,Native Village of Selawik,Alaska,FALSE,AK,44.6,0,31.3,596,Subsistence,FALSE,YES,1.4,0,0,0,425.7
+Alaska Native Village,Seldovia Village Tribe,Alaska,TRUE,AK,81.5,0,11.8,316,Fish,FALSE,YES,0,0,0,0,NA
+Trust Land related to a Federally Recognized Reservation,Seminole Tribe of Florida,Eastern,FALSE,NA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Federally Recognized Tribal Entity,Seminole Nation of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,TRUE,NA,574.9,NA,NA,NA,0
+Federally Recognized Tribal Entity,Seneca-Cayuga Tribe of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,786,Retail,TRUE,NA,0.1,27.1,27.1,72.9,7860
+Trust land for which no reservation exists,Seneca-Cayuga Tribe of Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,786,Retail,TRUE,NA,5.8,27.1,27.1,72.9,135.5
+Alaska Native Village,Shageluk Native Village,Alaska,TRUE,AK,46.7,0,22.9,139,Government,FALSE,YES,10.8,0,0,0,12.9
+American Indian Reservation,Shakopee Mdewakanton Sioux Community of Minnesota,Midwest,FALSE,MN,45.7,0,12.3,229,Construction,TRUE,NA,0.4,100,100,0,572.5
+Trust Land related to a Federally Recognized Reservation,Shakopee Mdewakanton Sioux Community of Minnesota,Midwest,FALSE,MN,45.7,0,12.3,229,Construction,TRUE,NA,0.8,100,100,0,286.2
+Alaska Native Village,Native Village of Shaktoolik,Alaska,TRUE,AK,50,4.1,31.9,178,Subsistence,FALSE,YES,1.6,0,0,0,111.2
+Federally Recognized Tribal Entity,"Shawnee Tribe,Oklahoma",Eastern Oklahoma,FALSE,OK,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,"California Valley Miwok Tribe, California (formerly the Sheep Ranch Rancheria of Me-Wuk Indians of California)",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Native Village of Sheldon's Point,Alaska,TRUE,AK,22,7.3,13,109,Fish,FALSE,YES,13,0,0,0,8.4
+American Indian Reservation,Sherwood Valley Rancheria of Pomo Indians of California,Pacific,FALSE,CA,33.3,0,0,155,Agriculture,TRUE,NA,0.6,0,0,0,258.3
+American Indian Reservation,"Shingle Springs Band of Miwok Indians, Shingle Springs Rancheria (Verona Tract), California",Pacific,FALSE,CA,100,100,0,12,Government,FALSE,NA,0.3,0,0,0,40
+Alaska Native Village,Native Village of Shishmaref,Alaska,TRUE,AK,55.6,1.7,18,456,Subsistence,FALSE,YES,2.8,0,0,0,162.9
+American Indian Reservation,Paiute Indian Tribe of Utah (Cedar City ; Kanosh ; Koosharem ; Indian Peaks ; Shivwits Bands of Paiutes),Western,FALSE,UT,0,0,45,0,Sewing,FALSE,NA,43.1,0,0,0,0
+American Indian Reservation,"Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington",Northwest,TRUE,WA,0,0,0,0,NA,TRUE,NA,1.2,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,"Shoalwater Bay Tribe of the Shoalwater Bay Indian Reservation, Washington",Northwest,TRUE,WA,0,0,0,0,NA,TRUE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Native Village of Shungnak,Alaska,TRUE,AK,43.7,0,14,223,Fish,FALSE,YES,9.7,0,0,0,23
+American Indian Reservation,"Confederated Tribes of the Siletz Reservation, Oregon",Northwest,TRUE,OR,40,7,25,0,Fish,TRUE,YES,5.9,100,89.7,0,0
+Trust Land related to a Federally Recognized Reservation,"Confederated Tribes of the Siletz Reservation, Oregon",Northwest,TRUE,OR,40,7,25,0,Fish,TRUE,YES,0.2,100,89.7,0,0
+Alaska Native Village,Sitka Tribe of Alaska,Alaska,TRUE,AK,87,21.4,6.7,8588,Fish,FALSE,NA,0.6,0,0,0,14313.3
+Alaska Native Village,Skagway Village,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,9.8,NA,NA,NA,0
+American Indian Reservation,"Skokomish Indian Tribe of the Skokomish Reservation, Washington",Northwest,TRUE,WA,63.1,10.3,27.3,618,Fish,FALSE,YES,8.2,3,50,0,75.4
+American Indian Reservation,Skull Valley Band of Goshute Indians of Utah,Western,FALSE,UT,0,0,0,25,Off,FALSE,NA,30,100,100,0.9,0.8
+Alaska Native Village,Village of Sleetmute,Alaska,TRUE,AK,46.6,0,12.9,106,Subsistence,FALSE,YES,105.3,0,0,0,1
+American Indian Reservation,Smith River Rancheria of California,Pacific,FALSE,CA,0,0,0,0,NA,TRUE,NA,0.2,NA,NA,NA,0
+Federally Recognized Tribal Entity,"Snoqualmie Tribe, Washington",Northwest,FALSE,WA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+American Indian Reservation,"Soboba Band of Luiseno Indians, California",Pacific,FALSE,CA,66.9,1.2,23,442,Agriculture,TRUE,YES,8,0,0,0,55.2
+Alaska Native Village,Village of Solomon,Alaska,TRUE,AK,33.3,0,100,6,Subsistence,FALSE,NO,15.7,0,0,0,0.4
+American Indian Reservation,Te-Moak Tribe of Western Shoshone Indians of Nevada - South Fork Band,Western,FALSE,NV,44,0,0,76,Agriculture,FALSE,NA,18.6,100,0,0,4.1
+Alaska Native Village,South Naknek Village,Alaska,TRUE,AK,78.2,7.3,27.5,136,Fish,FALSE,YES,97.9,0,0,0,1.4
+American Indian Reservation,"Southern Ute Indian Tribe of the Southern Ute Reservation, Colorado",Southwest,FALSE,CO,75.2,7.9,0,7886,Construction,TRUE,NA,1063.5,36.9,0,0.5,7.4
+American Indian Reservation,"Spirit Lake Tribe, North Dakota (formerly Devils Lake Sioux Tribe)",Great Plains,FALSE,ND,52.1,4.4,25,3754,Farming,TRUE,YES,575.5,10.7,0,13.9,6.5
+American Indian Reservation,"Spokane Tribe of the Spokane Reservation, Washington",Northwest,FALSE,WA,69.9,4,28.8,1451,Forestry,TRUE,YES,246.1,0,83.9,0,5.9
+American Indian Reservation,"Squaxin Island Tribe of the Squaxin Island Reservation, Washington",Northwest,TRUE,WA,0,0,0,0,NA,TRUE,NA,2.2,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,"Squaxin Island Tribe of the Squaxin Island Reservation, Washington",Northwest,TRUE,WA,0,0,0,0,NA,TRUE,NA,0.5,NA,NA,NA,0
+American Indian Reservation,St. Croix Chippewa Indians of Wisconsin,Midwest,FALSE,WI,0,0,53,1288,Gaming,TRUE,NA,3.4,80.9,61.8,0,378.8
+Trust Land related to a Federally Recognized Reservation,St. Croix Chippewa Indians of Wisconsin,Midwest,FALSE,WI,0,0,53,1288,Gaming,TRUE,NA,0.2,80.9,61.8,0,6440
+American Indian Reservation,St. Regis Band of Mohawk Indians of New York,Eastern,FALSE,NY,57,6.6,18.6,1974,Construction,TRUE,NA,21,NA,NA,NA,94
+American Indian Reservation,Standing Rock Sioux Tribe of North and South Dakota,Great Plains,FALSE,ND,61.8,4.8,33.1,7956,Ranching,TRUE,YES,3647.9,34.8,0,64,2.2
+Trust Land related to a Federally Recognized Reservation,Standing Rock Sioux Tribe of North and South Dakota,Great Plains,FALSE,ND,61.8,4.8,33.1,7956,Ranching,TRUE,YES,0,34.8,0,64,NA
+Alaska Native Village,Stebbins Community Association,Alaska,TRUE,AK,32.7,0,39.2,400,Subsistence,FALSE,YES,27.3,0,0,0,14.7
+Alaska Native Village,Native Village of Stevens,Alaska,TRUE,AK,38.9,5.6,43.3,102,Subsistence,FALSE,YES,11,0,0,0,9.3
+American Indian Reservation,Washoe Tribe of Nevada & California - Stewart Community,Western,FALSE,NV,0,0,0,138,NA,FALSE,NA,1.2,0,0,0,115
+American Indian Reservation,Kashia Band of Pomo Indians of the Stewarts Point Rancheria,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.1,NA,NA,NA,0
+American Indian Reservation,Stillaguamish Tribe of Washington,Northwest,FALSE,WA,0,0,0,237,NA,FALSE,YES,0,NA,NA,NA,NA
+American Indian Reservation,"Stockbridge Munsee Community, Wisconsin",Midwest,FALSE,WI,0,0,0,846,Timber,TRUE,NA,72.5,4.9,34.8,0,11.7
+Alaska Native Village,Village of Stony River,Alaska,TRUE,AK,92,80,26.7,51,Subsistence,FALSE,YES,5,0,0,0,10.2
+American Indian Reservation,"Elem Indian Colony of Pomo Indians of the Sulphur Bank Rancheria, California",Pacific,FALSE,CA,33.3,0,10,96,Agricultural,TRUE,YES,0.1,0,0,0,960
+American Indian Reservation,Summit Lake Paiute Tribe of Nevada,Western,FALSE,NV,50,0,0,16,Leasing,FALSE,NA,19.7,100,0,0,0.8
+American Indian Reservation,"Susanville Indian Rancheria, California",Pacific,FALSE,CA,62,5.6,38.8,491,Agriculture,TRUE,NA,0.2,0,0,0,2455
+American Indian Reservation,"Swinomish Indians of the Swinomish Reservation, Washington",Northwest,TRUE,WA,65.1,1.9,29.4,2285,Fish,TRUE,YES,11.4,3.8,0,43,200.4
+American Indian Reservation,Sycuan Band of the Kumeyaay Nation (formerly the Sycuan Band of Diegueno Mission Indians of California),Pacific,FALSE,CA,0,0,0,0,Tourism,TRUE,YES,1,0,0,0,0
+American Indian Reservation,"Wiyot Tribe, California (formerly the Table Bluff Rancheria - Wiyot Tribe)",Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0.1,NA,NA,NA,0
+American Indian Reservation,Table Mountain Rancheria of California,Pacific,FALSE,CA,45.8,0,26.7,81,NA,TRUE,NA,0.2,0,0,0,405
+Alaska Native Village,Takotna Village,Alaska,TRUE,AK,50,0,0,38,Government,FALSE,YES,23.5,0,0,0,1.6
+American Indian Reservation,Seminole Tribe of Florida,Eastern,FALSE,FL,51,0,0,528,Agriculture,FALSE,NA,0.1,100,100,0,5280
+Alaska Native Village,Native Village of Tanacross,Alaska,TRUE,AK,61.3,0,35.4,106,Public,FALSE,YES,81.1,0,0,0,1.3
+Alaska Native Village,Native Village of Tanana,Alaska,TRUE,AK,63.7,1.4,21.8,345,Government,FALSE,NA,15.5,0,0,0,22.3
+American Indian Reservation,"Pueblo of Taos, New Mexico",Southwest,FALSE,NM,70.9,6,25,1700,Farming,TRUE,YES,152.8,100,0,0,11.1
+Alaska Native Village,Native Village of Tatitlek,Alaska,TRUE,AK,63.2,0,0,119,Fish,FALSE,YES,6.4,0,0,0,18.6
+Alaska Native Village,Native Village of Tazlina,Alaska,TRUE,AK,58.5,0,13.2,247,Retail,FALSE,NO,13.2,0,0,0,18.7
+Alaska Native Village,Telida Village,Alaska,TRUE,AK,0,0,0,11,Subsistence,FALSE,NO,57.9,0,0,0,0.2
+Alaska Native Village,Native Village of Teller,Alaska,TRUE,AK,59.7,0,3.3,232,Subsistence,FALSE,YES,2.1,0,0,0,110.5
+American Indian Reservation,"Pueblo of Tesuque, New Mexico",Southwest,FALSE,NM,78,7.8,11.1,702,Agriculture,TRUE,NA,27,100,0,0,26
+Alaska Native Village,Native Village of Tetlin,Alaska,TRUE,AK,50,0,25,87,Arts,FALSE,YES,386.8,0,0,0,0.2
+American Indian Reservation,Confederated Tribes of Warm Springs Reservation of Oregon,Northwest,FALSE,OR,100,2.9,17.4,3143,Agriculture,FALSE,NA,1.3,92.7,0,7.4,2417.7
+Federally Recognized Tribal Entity,Thlopthlocco Tribal Town of the Creek Nation of Oklahoma,Eastern Oklahoma,FALSE,OK,60.8,8,13.2,0,Retail,TRUE,NA,0,NA,NA,NA,NA
+Trust land for which no reservation exists,Thlopthlocco Tribal Town of the Creek Nation of Oklahoma,Eastern Oklahoma,FALSE,OK,60.8,8,13.2,0,Retail,TRUE,NA,25.3,NA,NA,NA,0
+Alaska Native Village,Central Council of the Tlingit & Haida Indian Tribes,Alaska,TRUE,AK,0,0,0,0,NA,TRUE,NA,0,NA,NA,NA,NA
+Alaska Native Village,Traditional Village of Togiak,Alaska,TRUE,AK,54.5,2,23.1,613,Fish,FALSE,YES,44.8,0,0,0,13.7
+American Indian Reservation,Tohono O'odham Nation of Arizona,Western,FALSE,AZ,47.3,0.4,66,10805,Government,TRUE,YES,4334.2,0,0,0,2.5
+Trust Land related to a Federally Recognized Reservation,Tohono O'odham Nation of Arizona,Western,FALSE,AZ,47.3,0.4,66,10805,Government,TRUE,YES,0.1,0,0,0,108050
+Alaska Native Village,Nunakauyarmiui Tribe (formerly Native Village of Toksook Bay),Alaska,FALSE,AK,47.1,1.9,25.5,420,Fish,FALSE,YES,30.3,0,0,0,13.9
+American Indian Reservation,Tonawanda Band of Seneca Indians of New York,Eastern,FALSE,NY,68.3,1.4,0,700,NA,FALSE,YES,11.9,100,0,0,58.8
+Federally Recognized Tribal Entity,Tonkawa Tribe of Indians of Oklahoma,Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,255.5,NA,NA,NA,0
+Trust land for which no reservation exists,Tonkawa Tribe of Indians of Oklahoma,Southern Plains,FALSE,OK,61.5,8.3,21.9,826,Retail,TRUE,NA,2,80.6,80.6,19.3,413
+American Indian Reservation,Tonto Apache Tribe of Arizona,Western,FALSE,AZ,0,0,9,102,Government,TRUE,NA,0.1,100,0,0,1020
+American Indian Reservation,"Torres Martinez Desert Cahuilla Indians, California (formerly the Torres-Martinez Band of Cahuilla Missions Indians of California)",Pacific,FALSE,CA,31.8,0,21.7,1628,NA,FALSE,NA,49.2,0,0,0,33.1
+American Indian Reservation,"Cher-Ae Heights Indian Community of the Trinidad Rancheria, California",Pacific,FALSE,CA,55.8,7,13.3,71,Construction,TRUE,YES,0.1,0,100,0,710
+American Indian Reservation,"Tulalip Tribes of the Tulalip Reservation, Washington",Northwest,TRUE,WA,57.8,4.6,12.3,7103,Construction,TRUE,YES,35.5,65.3,0,39.1,200.1
+American Indian Reservation,"Tule River Indian Tribe of the Tule River Reservation, California",Pacific,FALSE,CA,53.1,0,24.3,803,Construction,TRUE,YES,84.4,0,0,0,9.5
+Alaska Native Village,Tuluksak Native Community,Alaska,FALSE,AK,44,0,3.1,353,Government,FALSE,YES,4.2,NA,NA,NA,84
+American Indian Reservation,Tunica-Biloxi Indian Tribe of Louisiana,Eastern,FALSE,LA,71.4,0,0,36,Agriculture,TRUE,NA,0.2,0,100,0,180
+Alaska Native Village,Native Village of Tuntutuliak,Alaska,TRUE,AK,44.9,1.6,6.4,300,Subsistence,FALSE,YES,119.4,0,0,0,2.5
+Alaska Native Village,Native Village of Tununak,Alaska,TRUE,AK,54.2,1.7,14,316,Government,FALSE,YES,38.8,0,0,0,8.1
+American Indian Reservation,Tuolumne Band of Me-Wuk Indians of the Tuolumme Rancheria of California,Pacific,FALSE,CA,68.1,0,25.9,85,Tourism,FALSE,NA,0.5,0,0,0,170
+Trust Land related to a Federally Recognized Reservation,Turtle Mountain Band of Chippewa Indians of North Dakota,Rocky Mountain,FALSE,MT,0,0,0,0,NA,FALSE,NA,93.5,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,Turtle Mountain Band of Chippewa Indians of North Dakota,Great Plains,FALSE,NA,0,0,0,0,NA,FALSE,NA,52.3,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,Turtle Mountain Band of Chippewa Indians of North Dakota,Great Plains,FALSE,NA,0,0,0,0,NA,FALSE,NA,0.8,NA,NA,NA,0
+American Indian Reservation,Turtle Mountain Band of Chippewa Indians of North Dakota,Great Plains,FALSE,ND,55.1,8.2,34.1,7101,Agriculture,TRUE,YES,71.9,25.4,0,74.2,98.8
+American Indian Reservation,Tuscarora Nation of New York,Eastern,FALSE,NY,70.4,9,0,353,Timber,FALSE,YES,9.3,100,0,0,38
+American Indian Reservation,Twenty-Nine Palms Band of Mission Indians of California,Pacific,FALSE,CA,0,0,0,0,NA,TRUE,NA,0.4,NA,NA,NA,0
+Alaska Native Village,Twin Hills Village,Alaska,TRUE,AK,26.9,0,25,66,Fish,FALSE,YES,31.8,0,0,0,2.1
+Alaska Native Village,Native Village of Tyonek,Alaska,FALSE,AK,36.4,5.5,37.7,154,Tourism,FALSE,YES,22.5,0,0,0,6.8
+Alaska Native Village,Ugashik Village,Alaska,TRUE,AK,50,0,80,7,Fish,FALSE,NO,234.9,0,0,0,0
+American Indian Reservation,"Ute Indian Tribe of the Uintah and Ouray Reservation, Utah",Western,FALSE,UT,52.3,4.1,28.6,3154,Cattle,FALSE,NA,765488.8,0,0,0,0
+Trust Land related to a Federally Recognized Reservation,"Ute Indian Tribe of the Uintah and Ouray Reservation, Utah",Western,FALSE,UT,52.3,4.1,28.6,3154,Cattle,FALSE,NA,6.2,0,0,0,508.7
+American Indian Reservation,"Confederated Tribes of Umatilla Reservation, Oregon",Northwest,FALSE,OR,74.8,3.7,32,2549,Agriculture,TRUE,YES,457.6,0,10.6,0,5.6
+Alaska Native Village,Umkumiute Native Village,Alaska,FALSE,AK,0,0,0,0,Subsistence,FALSE,NO,21.9,0,0,0,0
+Alaska Native Village,Native Village of Unalakleet,Alaska,TRUE,AK,67.1,6.5,19.2,714,Government,FALSE,YES,0,0,0,0,NA
+Alaska Native Village,Qawalangin Tribe of Unalaska,Alaska,TRUE,AK,57.4,13,1,3089,Fish,FALSE,YES,109.7,0,0,0,28.2
+Alaska Native Village,Native Village of Unga,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NO,8.9,0,0,0,0
+Federally Recognized Tribal Entity,United Auburn Indian Community of the Auburn Rancheria of California,Pacific,FALSE,CA,0,0,0,0,NA,FALSE,NA,0,NA,NA,NA,NA
+Federally Recognized Tribal Entity,United Keetoowah Band of Cherokee Indians in Oklahoma,Eastern Oklahoma,FALSE,OK,0,0,0,0,Government,TRUE,NA,0,100,0,0,NA
+American Indian Reservation,"Habematolel Pomo of Upper Lake, California (formerly the Upper Lake Band of Pomo Indians of Upper Lake Rancheria of California",Pacific,FALSE,CA,0,0,0,70,Forestry,FALSE,YES,0.7,0,0,0,100
+American Indian Reservation,"Upper Sioux Community, Minnesota",Midwest,FALSE,MN,26.7,0,0,200,Agriculture,TRUE,YES,2.1,100,99.2,0,95.2
+Trust Land related to a Federally Recognized Reservation,"Upper Sioux Community, Minnesota",Midwest,FALSE,MN,26.7,0,0,200,Agriculture,TRUE,YES,2.1,100,99.2,0,95.2
+American Indian Reservation,Upper Skagit Indian Tribe of Washington,Northwest,FALSE,WA,0,0,0,0,Government,TRUE,YES,0.2,100,100,NA,0
+American Indian Reservation,"Ute Mountain Tribe of the Ute Mountain Reservation, Colorado, New Mexico and Utah",Southwest,FALSE,CO,49.7,2,19,1366,Agriculture,TRUE,YES,902.6,100,0,0,1.5
+Alaska Native Village,Native Village of Venetie Tribal Government (Artic Village and Village of Venetie),Alaska,TRUE,AK,31.6,0,37.5,182,Subsistence,FALSE,YES,14.4,0,0,0,12.6
+American Indian Reservation,"Viejas (Baron Long) Group of Capitan Grande Band of Mission Indians of the Viejas Reservation, California",Pacific,FALSE,CA,69.6,0,28.3,431,Tourism,TRUE,YES,2.5,0,0,0,172.4
+Alaska Native Village,Village of Wainwright,Alaska,FALSE,AK,47.1,0,10.2,492,Arts,FALSE,YES,21,0,0,0,23.4
+Alaska Native Village,Native Village of Wales,Alaska,TRUE,AK,55.4,4.6,19.3,161,Subsistence,FALSE,YES,2.4,0,0,0,67.1
+American Indian Reservation,"Walker River Paiute Tribe of the Walker River Reservation, Nevada",Western,FALSE,NV,65.3,0,0,811,Agriculture,FALSE,NA,531.3,97,0,25.3,1.5
+Trust Land related to a Federally Recognized Reservation,"Walker River Paiute Tribe of the Walker River Reservation, Nevada",Western,FALSE,NV,65.3,0,0,811,Agriculture,FALSE,NA,0,97,0,25.3,NA
+Federally Recognized Tribal Entity,Wampanoag Tribe of Gay Head (Aquinnah) of Massachusetts,Eastern,TRUE,MA,84.1,14.1,12.2,260,Government,FALSE,NA,0.1,0,0,0,2600
+Trust land for which no reservation exists,Wampanoag Tribe of Gay Head (Aquinnah) of Massachusetts,Eastern,TRUE,MA,84.1,14.1,12.2,260,Government,FALSE,NA,0.7,0,0,0,371.4
+American Indian Reservation,Confederated Tribes of Warm Springs Reservation of Oregon,Northwest,FALSE,OR,100,2.9,17.4,3143,Agriculture,TRUE,NA,1017.7,92.7,0,7.4,3.1
+American Indian Reservation,Washoe Tribe of Nevada & California - Washoe Ranches,Western,FALSE,NV,0,0,0,0,Ranching,FALSE,YES,4.5,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,Washoe Tribe of Nevada and California,Western,FALSE,NV,54.5,0,0,1300,Agriculture,FALSE,NA,140.1,0,6.8,96.7,9.3
+American Indian Reservation,Te-Moak Tribe of Western Shoshone Indians of Nevada - Wells Band,Western,FALSE,NV,67,0,0,34,Government,FALSE,YES,0.1,0,100,0,340
+American Indian Reservation,"Minnesota Chippewa Tribe, White Earth Band, Minnesota",Midwest,FALSE,MN,61.4,3.9,24.8,2759,Agriculture,TRUE,YES,1308,8.5,5.5,0,2.1
+Alaska Native Village,Native Village of White Mountain,Alaska,TRUE,AK,67.1,1.3,36.4,180,Subsistence,FALSE,YES,1.3,0,0,0,138.5
+Federally Recognized Tribal Entity,"Wichita and Affiliated Tribes (Wichita, Keechi, Waco & Tawakonie), Oklahoma",Southern Plains,FALSE,OK,65.4,9.8,50,868,Land,TRUE,NA,0,0.6,0.6,100,NA
+Trust land for which no reservation exists,"Wichita and Affiliated Tribes, (Wichita, Keechi, Waco & Tawakonie), Oklahoma and Caddo Nation of Oklahoma",Southern Plains,FALSE,OK,0,0,0,0,NA,TRUE,NA,87.8,NA,NA,NA,0
+American Indian Reservation,"Wind River Reservation, Wyoming",Rocky Mountain,FALSE,NA,0,0,0,0,NA,TRUE,NA,3521,NA,NA,NA,0
+Trust Land related to a Federally Recognized Reservation,"Wind River Reservation, Wyoming",Rocky Mountain,FALSE,NA,0,0,0,0,NA,TRUE,NA,7.7,NA,NA,NA,0
+American Indian Reservation,Winnebago Tribe of Nebraska,Great Plains,FALSE,NE,70.7,6.8,0,1154,Agriculture,TRUE,NA,176.6,15.4,0,0,6.5
+Trust Land related to a Federally Recognized Reservation,Winnebago Tribe of Nebraska,Great Plains,FALSE,NE,70.7,6.8,0,1154,Agriculture,TRUE,NA,0.2,15.4,0,0,5770
+American Indian Reservation,Winnemucca Indian Colony of Nevada,Western,FALSE,CA,0,0,0,61,NA,FALSE,NA,0.6,100,0,0,101.7
+American Indian Reservation,Washoe Tribe of Nevada & California - Woodfords Community,Western,FALSE,CA,0,0,0,402,Government,FALSE,NA,0.7,0,0,0,574.3
+Alaska Native Village,Wrangell Cooperative Association,Alaska,TRUE,AK,0,0,0,0,NA,FALSE,NA,58.9,NA,NA,NA,0
+Federally Recognized Tribal Entity,"Wyandotte Nation, Oklahoma (formerly the Wyandotte Tribe of Oklahoma)",Eastern Oklahoma,TRUE,OK,0,0,0,0,Grants,FALSE,NA,34.1,100,0,0,0
+American Indian Reservation,"Pit River Tribe, California   - XL Ranch",Pacific,FALSE,CA,52.6,0,18.2,23,Agriculture,FALSE,YES,14.5,0,0,0,1.6
+American Indian Reservation,"Confederated Tribes and Bands of the Yakama Nation, Washington",Northwest,FALSE,WA,0,0,0,0,Tourism,TRUE,NA,2151.9,0,6.6,0,0
+Trust Land related to a Federally Recognized Reservation,"Confederated Tribes and Bands of the Yakama Nation, Washington",Northwest,FALSE,WA,0,0,0,0,NA,TRUE,NA,33.7,NA,NA,NA,0
+Alaska Native Village,Yakutat Tlingit Tribe,Alaska,TRUE,AK,59.3,6,11.8,534,Fish,FALSE,YES,2.8,0,0,0,190.7
+American Indian Reservation,Yankton Sioux Tribe of South Dakota,Great Plains,FALSE,SD,55.5,4.1,30.1,6281,Farming,TRUE,YES,680.1,3.9,0,5.3,9.2
+American Indian Reservation,"Yavapai-Prescott Tribe of the Yavapai Reservation, Arizona",Western,FALSE,AZ,71.2,15.2,100,193,Retail,TRUE,NA,2.2,100,0,0,87.7
+American Indian Reservation,"Yerington Paiute Tribe of the Yerington Colony and Campbell Ranch, Nevada",Western,FALSE,NV,59.4,0,0,470,7,FALSE,YES,2.5,100,0,0,188
+American Indian Reservation,"Yomba Shoshone Tribe of the Yomba Reservation, Nevada",Western,FALSE,NV,40.8,0,0,127,Agriculture,FALSE,NA,7.2,100,0,0,17.6
+American Indian Reservation,Ysleta Del Sur Pueblo of Texas (Tigua),Southwest,FALSE,TX,0,0,53,0,Retail,TRUE,YES,0.2,0,86.8,0,0
+American Indian Reservation,"Yurok Tribe of the Yurok Reservation, California",Pacific,TRUE,CA,44.9,4.1,30.5,1343,Fish,FALSE,NA,88,7.8,0,5.8,15.3
+American Indian Reservation,"Pueblo of Zia, New Mexico",Southwest,FALSE,NM,64,4.4,19.4,638,Grazing,FALSE,YES,192.6,0,98.3,0,3.3
+American Indian Reservation,"Zuni Tribe of the Zuni Reservation, New Mexico",Southwest,FALSE,NM,55.4,3.6,13.8,8854,Sheep,FALSE,NA,657.6,99.5,0,0.5,13.5
+Trust Land related to a Federally Recognized Reservation,"Zuni Tribe of the Zuni Reservation, New Mexico",Southwest,FALSE,NM,55.4,3.6,13.8,8854,Sheep,FALSE,NA,69.2,99.5,0,0.5,127.9
+American Indian Reservation,"White Mountain Apache Tribe of the Fort Apache Reservation, Arizona",Western,FALSE,AZ,48.3,1.3,13.7,10506,Agriculture,TRUE,NA,2633.4,0,0,0,4
+American Indian Reservation,"San Carlos Apache Tribe of the San Carlos Reservation, Arizona",Western,FALSE,AZ,49.4,2,31,10000,Cattle,TRUE,NA,2899.4,100,0,0,3.4
