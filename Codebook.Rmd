@@ -8,16 +8,353 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+IC <- read_csv('bia_indian_lands_dataset.csv')
+
+#rm unnecessary variables
+IC <-
+  IC |>
+    select(-fid, -objectid, -area, -perimeter, -aiana,
+           -ind_source, -ind_scale, -org_code, -region_cod,
+           -agency_nam, -osgt_code, -osgt_assoc, -native_cor,
+           -mail_name, -cnty_st, -inc_percap, -tribal_num,
+           -treaty, -tribal_est, -gov_type, -acres, -agency_cod,
+           -poi_on_ima, -field_veri, -shape_leng, -shape_le_1,
+           -shape_le_2, -irmp_plan, -short_name, -shape_le_3,
+           -shape_area, -air_020107, -air_20108, -r_code,
+           -ind_name, -fed_regist, -labor_tot)
+
+
+#rm observations when not associated with a native entity
+IC <-
+  IC[!is.na(IC$entity),]
+
+##factorize and reorder aiana_desc
+
+IC$aiana_desc = 
+  as_factor(IC$aiana_desc)
+
+fct_count(IC$aiana_desc)
+
+IC <-
+  IC |>
+  mutate(
+    aiana_desc = fct_relevel(
+      aiana_desc, # source variable
+      'Trust land for which no reservation exists',
+      'Federally Recognized Tribal Entity',
+      'Trust Land related to a Federally Recognized Reservation',
+      'Alaska Native Village',
+      'American Indian Reservation'
+    )
+  )    
+
+levels(IC$aiana_desc)
+
+IC$self_gover = 
+  as_factor(IC$self_gover)
+
+fct_count(IC$self_gover)
+
+IC$gaming = 
+  as_factor(IC$gaming)
+
+fct_count(IC$gaming)
+
+IC$med_fac = 
+  as_factor(IC$med_fac)
+
+fct_count(IC$med_fac)
+##med_fac to binary
+
+IC <-
+IC|>
+mutate(
+    med_fac = case_when(grepl("none", med_fac) ~ "NO",
+                        grepl("clinic", med_fac, ignore.case = TRUE) ~"YES"))
+    
+
+##area pcts
+
+IC <-
+  IC |>
+    mutate(tribe_area_pct = tribe_area / tot_area * 100,
+           fed_area_pct = fed_area / tot_area * 100,
+           allot_area_pct = allot_area / tot_area * 100)
+
+IC <-
+  IC |>
+  select(-tribe_area, - allot_area, -fed_area, -tot_area)
+
+##rm NaN
+
+IC <-
+  IC |>
+  mutate(
+    tribe_area_pct = as.numeric(tribe_area_pct),
+    tribe_area_pct = case_when(
+      tribe_area_pct == 'NaN' ~ NA, 
+      TRUE ~ as.numeric(tribe_area_pct)
+      )
+  )
+
+IC <-
+  IC |>
+  mutate(
+    fed_area_pct = as.numeric(fed_area_pct),
+    fed_area_pct = case_when(
+      fed_area_pct == 'NaN' ~ NA, 
+      TRUE ~ as.numeric(fed_area_pct)
+    )
+  )
+
+IC <-
+  IC |>
+  mutate(
+    allot_area_pct = as.numeric(allot_area_pct),
+    allot_area_pct = case_when(
+      allot_area_pct == 'NaN' ~ NA, 
+      TRUE ~ as.numeric(allot_area_pct)
+    )
+  )
+
+##pop per sq mi
+
+IC <-
+  IC |>
+    mutate(sq_miles = round(sq_miles, 1))
+
+IC <-
+  IC |>
+    mutate(tribe_pop_sq_mi = pop_tot / sq_miles)
+
+IC <-
+  IC |>
+    mutate(tribe_pop_sq_mi = round(tribe_pop_sq_mi, 1),
+           tribe_area_pct = round(tribe_area_pct, 1),
+           fed_area_pct = round(fed_area_pct, 1),
+           allot_area_pct = round(allot_area_pct, 1))
+
+##mutate the economy
+
+IC$econ_sourc <- stringr::word(IC$econ_sourc, 1)
+
+#standardize obs names
+
+IC$econ_sourc <- str_replace_all(IC$econ_sourc,
+                                  c("," = "",
+                                    ";" = "",
+                                    "Fisheries" = "Fish",
+                                    "Fishing" = "Fish",
+                                    "Wild" = "Wild rice",
+                                    "Retail/service" = "Retail"))
 ```
 
 # Overview of Data
 
-This dataset originally comes from the dataset available at [https://data.world/dhs/bia-indian-lands-dataset](https://data.world/dhs/bia-indian-lands-dataset). The modified dataset that I have created consists of 696 observations of 19 variables that give a snapshot of tribal lands in the United States in the late 2010s.
+This dataset originally comes from the dataset available at [https://data.world/dhs/bia-indian-lands-dataset](https://data.world/dhs/bia-indian-lands-dataset).
 
 # Sources and Methodology
 
-This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016.
+This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016. The modified dataset that I have created consists of 696 observations of 19 variables that give a snapshot of tribal lands in the United States in the late 2010s.
 
 # Missing Values
 
 All missing values are designated with `NA`.
+
+# Itemized Presentation of Variables
+
+## Land type
+Variable Name: `aiana_desc`
+
+Variable Type: factor
+
+Description: Legal classification of land
+```{r, echo = F}
+eval = T
+fct_count(IC$aiana_desc)
+```
+
+## Entity
+
+Variable Name: `entity`
+
+Variable Type: character
+
+Description: Name of tribal entity that land is associated with
+
+## Region Name
+
+Variable Name: `region_nam`
+
+Variable Type: character
+
+Description: US region that land is in
+
+## Self Government
+
+Variable Name: `self_gover`
+
+Variable Type: factor
+
+Description: Whether the land is under tribal self government
+```{r, echo = F}
+eval = T
+fct_count(IC$self_gover)
+```
+
+## State
+
+Variable Name: `state`
+
+Variable Type: character
+
+Description: US state that land is in, 2-letter abbreviation
+
+## High School Graduation
+
+Variable Name: `hsgrad_pct`
+
+Variable Type: numeric
+
+Description: Percent of tribal members who have graduated high school
+```{r, echo = F}
+eval = T
+summary(IC$hsgrad_pct)
+```
+
+## College Graduation
+
+Variable Name: `colgrad_pct`
+
+Variable Type: numeric
+
+Description: Percent of tribal members who have graduated college
+```{r, echo = F}
+eval = T
+summary(IC$colgrad_pc)
+```
+
+## Unemployment Percent
+
+Variable Name: `unemploy_p`
+
+Variable Type: numeric
+
+Description: Percent of tribal members who are unemployed
+```{r, echo = F}
+eval = T
+summary(IC$unemploy_p)
+```
+
+## Total Population
+
+Variable Name: `pop_tot`
+
+Variable Type: numeric
+
+Description: Number of tribal members
+```{r, echo = F}
+eval = T
+summary(IC$pop_tot)
+```
+
+## Main Economic Activity
+
+Variable Name: `econ_sourc`
+
+Variable Type: character
+
+Description: Main economic activity that tribe is engaged in
+
+## Operates Casinos
+
+Variable Name: `gaming`
+
+Variable Type: factor
+
+Description: Whether the tribe has gambling operations
+```{r, echo = F}
+eval = T
+fct_count(IC$gaming)
+```
+
+## Medical Facilities
+
+Variable Name: `med_fac`
+
+Variable Type: factor
+
+Description: Whether the land has a medical facility
+
+```{r, echo = F}
+eval = T
+fct_count(IC$med_fac)
+```
+
+## Area
+
+Variable Name: `sq_miles`
+
+Variable Type: numeric
+
+Description: Area of land in square miles
+```{r, echo = F}
+eval = T
+summary(IC$sq_miles)
+```
+
+## Tribe Area Percent
+
+Variable Name: `tribe_area_pct`
+
+Variable Type: numeric
+
+Description: What percent of the land is tribal land
+```{r, echo = F}
+eval = T
+summary(IC$tribe_area_pct)
+```
+
+## Federal Area Percent
+
+Variable Name: `fed_area_pct`
+
+Variable Type: numeric
+
+Description: What percent of the land is federal land
+```{r, echo = F}
+eval = T
+summary(IC$fed_area_pct)
+```
+
+## Allotment Area Percent
+
+Variable Name: `allot_area_pct`
+
+Variable Type: numeric
+
+Description: What percent of the land is allotment land (private property)
+```{r, echo = F}
+eval = T
+summary(IC$allot_area_pct)
+```
+
+## Population per Square Mile
+
+Variable Name: `tribe_pop_sq_mi`
+
+Variable Type: numeric
+
+Description: Tribal population per square mile of land
+```{r, echo = F}
+eval = T
+summary(IC$tribe_pop_sq_mi)
+```
+
+
+
+
+
+
+
+

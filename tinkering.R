@@ -41,6 +41,20 @@ IC <-
 
 levels(IC$aiana_desc)
 
+IC$self_gover = 
+  as_factor(IC$self_gover)
+
+fct_count(IC$self_gover)
+
+IC$gaming = 
+  as_factor(IC$gaming)
+
+fct_count(IC$gaming)
+
+IC$med_fac = 
+  as_factor(IC$med_fac)
+
+fct_count(IC$med_fac)
 ##med_fac to binary
 
 IC <-
@@ -126,6 +140,7 @@ IC$econ_sourc <- str_replace_all(IC$econ_sourc,
                                     "Retail/service" = "Retail"))
 
 ##size factor for tribes
+##I could not get this to work so it's not in the final dataset, but I wanted to show that I really tried to make it work
 
 IC =
   IC |>
