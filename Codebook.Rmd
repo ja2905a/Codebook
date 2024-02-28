@@ -188,11 +188,11 @@ IC <-
 
 # Overview of Data
 
-This dataset originally comes from the dataset available at [https://data.world/dhs/bia-indian-lands-dataset](https://data.world/dhs/bia-indian-lands-dataset).
+This tidied dataset originally comes from the dataset available at [https://data.world/dhs/bia-indian-lands-dataset](https://data.world/dhs/bia-indian-lands-dataset). The data record demographic, economic, and geographic information for Native entities recognized by the federal government.
 
 # Sources and Methodology
 
-This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016. The modified dataset that I have created consists of 696 observations of 17 variables that give a snapshot of tribal lands in the United States in the late 2010s.
+This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016 on their data.world page. The modified dataset that I have created consists of 696 observations of 17 variables that give a snapshot of tribal lands in the United States in the late 2010s.
 
 # Missing Values
 
