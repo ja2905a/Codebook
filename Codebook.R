@@ -176,6 +176,9 @@ IC <-
     )
   )
 
+
+save(IC, file = 'IC.rdata')
+
 ##size factor for tribes
 ##I could not get this to work so it's not in the final dataset, but I wanted to show that I really tried to make it work
 
