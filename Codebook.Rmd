@@ -12,9 +12,11 @@ library(tidyverse)
 
 # Overview of Data
 
-This dataset originally comes from
+This dataset originally comes from the dataset available at [https://data.world/dhs/bia-indian-lands-dataset](https://data.world/dhs/bia-indian-lands-dataset). The modified dataset that I have created consists of 696 observations of 19 variables that give a snapshot of tribal lands in the United States in the late 2010s.
 
-https://data.world/dhs/bia-indian-lands-dataset
+# Sources and Methodology
+
+This data was compiled by the Department of Homeland Security's Homeland Infrastructure Foundation and made available to the public in 2016.
 
 # Missing Values
 
