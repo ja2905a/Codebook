@@ -85,7 +85,7 @@ IC <-
   IC |>
   select(-tribe_area, - allot_area, -fed_area, -tot_area)
 
-##rm NaN
+##rm NaN, Inf
 
 IC <-
   IC |>
@@ -93,6 +93,7 @@ IC <-
     tribe_area_pct = as.numeric(tribe_area_pct),
     tribe_area_pct = case_when(
       tribe_area_pct == 'NaN' ~ NA, 
+      tribe_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(tribe_area_pct)
       )
   )
@@ -102,7 +103,8 @@ IC <-
   mutate(
     fed_area_pct = as.numeric(fed_area_pct),
     fed_area_pct = case_when(
-      fed_area_pct == 'NaN' ~ NA, 
+      fed_area_pct == 'NaN' ~ NA,
+      tribe_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(fed_area_pct)
     )
   )
@@ -112,7 +114,8 @@ IC <-
   mutate(
     allot_area_pct = as.numeric(allot_area_pct),
     allot_area_pct = case_when(
-      allot_area_pct == 'NaN' ~ NA, 
+      allot_area_pct == 'NaN' ~ NA,
+      tribe_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(allot_area_pct)
     )
   )
@@ -171,7 +174,7 @@ Variable Type: factor
 Description: Legal classification of land
 ```{r, echo = F}
 eval = T
-fct_count(IC$aiana_desc)
+knitr::kable(fct_count(IC$aiana_desc))
 ```
 
 ## Entity
@@ -199,7 +202,7 @@ Variable Type: factor
 Description: Whether the land is under tribal self government
 ```{r, echo = F}
 eval = T
-fct_count(IC$self_gover)
+knitr::kable(fct_count(IC$self_gover))
 ```
 
 ## State
@@ -275,7 +278,7 @@ Variable Type: factor
 Description: Whether the tribe has gambling operations
 ```{r, echo = F}
 eval = T
-fct_count(IC$gaming)
+knitr::kable(fct_count(IC$gaming))
 ```
 
 ## Medical Facilities
@@ -288,7 +291,7 @@ Description: Whether the land has a medical facility
 
 ```{r, echo = F}
 eval = T
-fct_count(IC$med_fac)
+knitr::kable(fct_count(IC$med_fac))
 ```
 
 ## Area

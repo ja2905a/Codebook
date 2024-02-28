@@ -84,6 +84,7 @@ IC <-
     tribe_area_pct = as.numeric(tribe_area_pct),
     tribe_area_pct = case_when(
       tribe_area_pct == 'NaN' ~ NA, 
+      tribe_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(tribe_area_pct)
       )
   )
@@ -93,7 +94,8 @@ IC <-
   mutate(
     fed_area_pct = as.numeric(fed_area_pct),
     fed_area_pct = case_when(
-      fed_area_pct == 'NaN' ~ NA, 
+      fed_area_pct == 'NaN' ~ NA,
+      tribe_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(fed_area_pct)
     )
   )
@@ -103,7 +105,8 @@ IC <-
   mutate(
     allot_area_pct = as.numeric(allot_area_pct),
     allot_area_pct = case_when(
-      allot_area_pct == 'NaN' ~ NA, 
+      allot_area_pct == 'NaN' ~ NA,
+      tribe_area_pct == 'Inf' ~ 100,
       TRUE ~ as.numeric(allot_area_pct)
     )
   )
@@ -160,3 +163,6 @@ IC =
         )
       )
     )
+
+
+knitr::kable(fct_count(IC$med_fac))
