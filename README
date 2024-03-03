@@ -1,0 +1,3 @@
+A brief description of how I manipulated the data:
+
+First, I removed a lot of columns to get rid of variables dealing with technical details of geography, historical information, administrative information, and variables for which all observations had the same information. Then I turned the aiana_desc, self_gover, gaming, and med_fac variables from character/boolean to factor. I then mutated several numeric variables into percentages, removed missing values, and corrected values for percentages over 100. I then mutated the variable dealing with economic activity to standardize the observation names.
